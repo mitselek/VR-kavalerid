@@ -1,5 +1,5 @@
 # https://tools.keycdn.com/sha256-online-generator
-@key=xxx
+@key=K8gSoTrHMsZskFhc6sLYX5aa
 @hostname=entu.app/api
 @account=esmuuseum
 ###
@@ -8,7 +8,7 @@ GET {{hostname}}/auth?account={{account}} HTTP/1.1
 Accept-Encoding: deflate
 Authorization: Bearer {{key}}
 
-@token=xxx
+@token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NvdW50cyI6eyJlc211dXNldW0iOiI2NmI2MjQ1YzdlZmM5YWMwNmE0MzdiOTcifSwiaWF0IjoxNzI1MzYyOTA3LCJleHAiOjE3MjU1MzU3MDcsImF1ZCI6IjgyLjEzMS4xMjIuMjM4In0.NSyQ5tog-OIYKkQDpyhb3Nx1tsVrtaLZ_ATmYWxXxkY
 
 
 ###
