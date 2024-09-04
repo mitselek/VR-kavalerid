@@ -1,0 +1,108 @@
+# https://tools.keycdn.com/sha256-online-generator
+@key=xxx
+@hostname=entu.app/api
+@account=esmuuseum
+###
+# auth
+GET {{hostname}}/auth?account={{account}} HTTP/1.1
+Accept-Encoding: deflate
+Authorization: Bearer {{key}}
+
+@token=xxx
+
+
+###
+# account
+GET {{hostname}}/{{account}} HTTP/1.1
+Accept-Encoding: deflate
+Authorization: Bearer {{token}}
+
+###
+# entities GET
+GET {{hostname}}/{{account}}/entity?props=_type HTTP/1.1
+Accept-Encoding: deflate
+Authorization: Bearer {{token}}
+
+###
+# entity GET
+GET {{hostname}}/{{account}}/entity/66d6ead6f2daf46b3143eefb HTTP/1.1
+Accept-Encoding: deflate
+Authorization: Bearer {{token}}
+
+###
+# entity GET folder
+GET {{hostname}}/{{account}}/entity?_type.string=folder HTTP/1.1
+Accept-Encoding: deflate
+Authorization: Bearer {{token}}
+
+###
+# entity GET VR
+GET {{hostname}}/{{account}}/entity?_type.string=vabaduse rist HTTP/1.1
+Accept-Encoding: deflate
+Authorization: Bearer {{token}}
+
+###
+# entity GET VRK
+GET {{hostname}}/{{account}}/entity?_type.string=vrkavaler HTTP/1.1
+Accept-Encoding: deflate
+Authorization: Bearer {{token}}
+
+###
+# POST vrk
+POST {{hostname}}/{{account}}/entity HTTP/1.1
+Accept-Encoding: deflate
+Authorization: Bearer {{token}}
+Content-Type: application/json; charset=utf-8
+
+[
+    {"type": "_type", "string": "vrkavaler", "reference": "66d56de42acf2af0bc794b9d"},
+    {"type": "forename", "string": "Jane4"},
+    {"type": "surname", "string": "Doe4"}
+]
+
+###
+# DELETE entity
+DELETE {{hostname}}/{{account}}/entity/66d771c4f2daf46b3143f057
+Accept-Encoding: deflate
+Authorization: Bearer {{token}}
+Content-Type: application/json; charset=utf-8
+
+# 66d76f56f2daf46b3143f01c
+# 66d76febf2daf46b3143f024
+
+###
+GET {{hostname}}/{{account}}/entity?props=_type&_type.string.ne=property HTTP/1.1
+Accept-Encoding: deflate
+Authorization: Bearer {{token}}
+
+
+###
+# entity GET victims
+GET {{hostname}}/{{account}}/entity?_type.string=repisPerson&limit=200&skip=0&props=_id,forename.string HTTP/1.1
+Accept-Encoding: deflate
+Authorization: Bearer {{token}}
+
+###
+# entity query victims
+GET {{hostname}}/entity?_type.string=repisPerson&q=demograafia+keskus+karaganda HTTP/1.1
+Accept-Encoding: deflate
+Authorization: Bearer {{token}}
+
+###
+# entity POST
+POST {{hostname}}/entity HTTP/1.1
+Accept-Encoding: deflate
+Authorization: Bearer {{token}}
+Content-Type: application/json; charset=utf-8
+
+[
+    {"type": "_type", "string": "victim"},
+    {"type": "forename", "string": "John"},
+    {"type": "surname", "string": "Doe"},
+    {"type": "mother", "string": "Jane"},
+    {"type": "father", "string": "Jack"},
+    {"type": "birth", "string": "2000-01-01"},
+    {"type": "death", "string": "2020-01-01"},
+    {"type": "birthplace", "string": "Tallinn"},
+    {"type": "_parent", "reference": "65c34b4fa732c040f16a8e44" }
+]
