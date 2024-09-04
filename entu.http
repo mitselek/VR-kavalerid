@@ -1,57 +1,53 @@
 # https://tools.keycdn.com/sha256-online-generator
-@key=K8gSoTrHMsZskFhc6sLYX5aa
 @hostname=entu.app/api
 @account=esmuuseum
 ###
 # auth
 GET {{hostname}}/auth?account={{account}} HTTP/1.1
 Accept-Encoding: deflate
-Authorization: Bearer {{key}}
-
-@token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NvdW50cyI6eyJlc211dXNldW0iOiI2NmI2MjQ1YzdlZmM5YWMwNmE0MzdiOTcifSwiaWF0IjoxNzI1MzYyOTA3LCJleHAiOjE3MjU1MzU3MDcsImF1ZCI6IjgyLjEzMS4xMjIuMjM4In0.NSyQ5tog-OIYKkQDpyhb3Nx1tsVrtaLZ_ATmYWxXxkY
-
+Authorization: Bearer {{esm_key}}
 
 ###
 # account
 GET {{hostname}}/{{account}} HTTP/1.1
 Accept-Encoding: deflate
-Authorization: Bearer {{token}}
+Authorization: Bearer {{esm_token}}
 
 ###
 # entities GET
 GET {{hostname}}/{{account}}/entity?props=_type HTTP/1.1
 Accept-Encoding: deflate
-Authorization: Bearer {{token}}
+Authorization: Bearer {{esm_token}}
 
 ###
 # entity GET
 GET {{hostname}}/{{account}}/entity/66d6ead6f2daf46b3143eefb HTTP/1.1
 Accept-Encoding: deflate
-Authorization: Bearer {{token}}
+Authorization: Bearer {{esm_token}}
 
 ###
 # entity GET folder
 GET {{hostname}}/{{account}}/entity?_type.string=folder HTTP/1.1
 Accept-Encoding: deflate
-Authorization: Bearer {{token}}
+Authorization: Bearer {{esm_token}}
 
 ###
 # entity GET VR
 GET {{hostname}}/{{account}}/entity?_type.string=vabaduse rist HTTP/1.1
 Accept-Encoding: deflate
-Authorization: Bearer {{token}}
+Authorization: Bearer {{esm_token}}
 
 ###
 # entity GET VRK
 GET {{hostname}}/{{account}}/entity?_type.string=vrkavaler HTTP/1.1
 Accept-Encoding: deflate
-Authorization: Bearer {{token}}
+Authorization: Bearer {{esm_token}}
 
 ###
 # POST vrk
 POST {{hostname}}/{{account}}/entity HTTP/1.1
 Accept-Encoding: deflate
-Authorization: Bearer {{token}}
+Authorization: Bearer {{esm_token}}
 Content-Type: application/json; charset=utf-8
 
 [
@@ -62,16 +58,15 @@ Content-Type: application/json; charset=utf-8
 
 ###
 # Aggregate entity
-GET {{hostname}}/{{account}}/entity/66d83410f2daf46b3143f29c/aggregate HTTP/1.1
+GET {{hostname}}/{{account}}/entity/66d87898f2daf46b3144ce21/aggregate HTTP/1.1
 Accept-Encoding: deflate
-Authorization: Bearer {{token}}
-Content-Type: application/json; charset=utf-8
+Authorization: Bearer {{esm_token}}
 
 ###
 # DELETE entity
 DELETE {{hostname}}/{{account}}/entity/66d771c4f2daf46b3143f057
 Accept-Encoding: deflate
-Authorization: Bearer {{token}}
+Authorization: Bearer {{esm_token}}
 Content-Type: application/json; charset=utf-8
 
 ###
@@ -79,4 +74,4 @@ Content-Type: application/json; charset=utf-8
 #GET {{hostname}}/{{account}}/entity?_type.string=vrkavaler&props=_id HTTP/1.1
 GET https://entu.app/api/esmuuseum/entity?_type.string=vrkavaler&props=_id
 Accept-Encoding: deflate
-Authorization: Bearer {{token}}
+Authorization: Bearer {{esm_token}}
