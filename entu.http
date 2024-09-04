@@ -61,48 +61,22 @@ Content-Type: application/json; charset=utf-8
 ]
 
 ###
+# Aggregate entity
+GET {{hostname}}/{{account}}/entity/66d83410f2daf46b3143f29c/aggregate HTTP/1.1
+Accept-Encoding: deflate
+Authorization: Bearer {{token}}
+Content-Type: application/json; charset=utf-8
+
+###
 # DELETE entity
 DELETE {{hostname}}/{{account}}/entity/66d771c4f2daf46b3143f057
 Accept-Encoding: deflate
 Authorization: Bearer {{token}}
 Content-Type: application/json; charset=utf-8
 
-# 66d76f56f2daf46b3143f01c
-# 66d76febf2daf46b3143f024
-
 ###
-GET {{hostname}}/{{account}}/entity?props=_type&_type.string.ne=property HTTP/1.1
+# entity GET VRK id's
+#GET {{hostname}}/{{account}}/entity?_type.string=vrkavaler&props=_id HTTP/1.1
+GET https://entu.app/api/esmuuseum/entity?_type.string=vrkavaler&props=_id
 Accept-Encoding: deflate
 Authorization: Bearer {{token}}
-
-
-###
-# entity GET victims
-GET {{hostname}}/{{account}}/entity?_type.string=repisPerson&limit=200&skip=0&props=_id,forename.string HTTP/1.1
-Accept-Encoding: deflate
-Authorization: Bearer {{token}}
-
-###
-# entity query victims
-GET {{hostname}}/entity?_type.string=repisPerson&q=demograafia+keskus+karaganda HTTP/1.1
-Accept-Encoding: deflate
-Authorization: Bearer {{token}}
-
-###
-# entity POST
-POST {{hostname}}/entity HTTP/1.1
-Accept-Encoding: deflate
-Authorization: Bearer {{token}}
-Content-Type: application/json; charset=utf-8
-
-[
-    {"type": "_type", "string": "victim"},
-    {"type": "forename", "string": "John"},
-    {"type": "surname", "string": "Doe"},
-    {"type": "mother", "string": "Jane"},
-    {"type": "father", "string": "Jack"},
-    {"type": "birth", "string": "2000-01-01"},
-    {"type": "death", "string": "2020-01-01"},
-    {"type": "birthplace", "string": "Tallinn"},
-    {"type": "_parent", "reference": "65c34b4fa732c040f16a8e44" }
-]
