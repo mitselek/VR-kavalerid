@@ -58,7 +58,7 @@ Content-Type: application/json; charset=utf-8
 
 ###
 # Aggregate entity
-GET {{hostname}}/{{account}}/entity/66d87898f2daf46b3144ce21/aggregate HTTP/1.1
+GET {{hostname}}/{{account}}/entity/66d87895f2daf46b3144cc4c/aggregate HTTP/1.1
 Accept-Encoding: deflate
 Authorization: Bearer {{esm_token}}
 
@@ -71,7 +71,6 @@ Content-Type: application/json; charset=utf-8
 
 ###
 # entity GET VRK id's
-#GET {{hostname}}/{{account}}/entity?_type.string=vrkavaler&props=_id HTTP/1.1
-GET https://entu.app/api/esmuuseum/entity?_type.string=vrkavaler&props=_id
+GET {{hostname}}/{{account}}/entity?_type.string=vrkavaler&props=_id HTTP/1.1
 Accept-Encoding: deflate
 Authorization: Bearer {{esm_token}}
