@@ -63,6 +63,17 @@ Accept-Encoding: deflate
 Authorization: Bearer {{esm_token}}
 
 ###
+# POST inheritrights
+POST {{hostname}}/{{account}}/entity/66d87895f2daf46b3144cc4c HTTP/1.1
+Accept-Encoding: deflate
+Authorization: Bearer {{esm_token}}
+Content-Type: application/json; charset=utf-8
+
+[
+    {"type": "_inheritrights", "boolean": true}
+]
+
+###
 # DELETE entity
 DELETE {{hostname}}/{{account}}/entity/66d771c4f2daf46b3143f057
 Accept-Encoding: deflate
