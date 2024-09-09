@@ -11,7 +11,8 @@ const entu_account = 'esmuuseum'
 
 const update_url = `https://${entu_hostname}/${entu_account}/entity/`
 
-const in_csv_path = path.join(__dirname, 'VRkavalerid_Bio.csv')
+// const in_csv_path = path.join(__dirname, 'VRkavalerid_Bio.csv')
+const in_csv_path = path.join(__dirname, 'mille_eest.csv')
 
 const field_mapping = [
   {
@@ -28,6 +29,11 @@ const field_mapping = [
     source: 'bio',
     target: 'biography',
     type: 'string'
+  },
+  {
+    source: 'mille_eest',
+    target: 'mille_eest',
+    type: 'string'
   }
 ]
 
@@ -35,7 +41,7 @@ let counter = 0
 const full_trshold = 50
 const low_trshold = 40
 var paused = false
-var total = 3134
+var total = 3313
 
 const instream = fs.createReadStream(in_csv_path)
 const readable = instream.pipe(csv())
