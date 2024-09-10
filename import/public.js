@@ -16,11 +16,11 @@ const public_v = `https://${entu_hostname}/${entu_account}/entity/`
 
 let counter = 0
 const full_trshold = 50
-const low_trshold = 20
+const low_trshold = 40
 var paused = false
 var total = 0
 
-fetch(list_vrk, {
+fetch(list_vr, {
   method: 'GET',
   headers: {
     'Authorization': `Bearer ${token}`,
@@ -54,7 +54,8 @@ fetch(list_vrk, {
         'Content-Type': 'application/json'
       },
       body: JSON.stringify([
-        { type: '_inheritrights', boolean: true },
+        // { type: '_inheritrights', boolean: true },
+        { type: '_sharing', string: 'public' },
       ])
     })
     .then(response => response.json())
