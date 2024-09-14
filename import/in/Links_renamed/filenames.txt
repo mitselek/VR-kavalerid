@@ -1,0 +1,2168 @@
+0001, aalberg, viktor.tif
+0002, aalbok, eduard.tif
+0003, aaren, jakob.tif
+0004, aarna, hans.tif
+0005, aas, joosep.tif
+0006, aas, rudolf.tif
+0007, aasa, arseni.tif
+0008, aasjõe, madis.tif
+0009, aasma, juhan.tif
+0010, aavasalu, andres.tif
+0011, aaviste, voldemar-otto.tif
+0012, abel, eduard-karl-adolf.tif
+0013, abłamowicz, konstanty.tif
+0014, abrams, bernhard-johannes.tif
+0015, adachi, mineichirō.tif
+0016, adamson, edgar.tif
+0017, ader, rudolf.tif
+0018, adissoo, villem.tif
+0019, adler, alvin-amandus.tif
+0020, aejmelaeus-äimä, carl bror emil.tif
+0021, agar, augustus willington shelton.tif
+0022, agger, georg-voldemar.tif
+0023, ahas, august.tif
+0024, ahman, eduard.tif
+0025, ahtmann, georgi.tif
+0026, aimla, rudolf.tif
+0027, aindt, eduard-voldemar.tif
+0028, ainison, peeter-nikolai.tif
+0029, ainson, hans-karl.tif
+0030, aire, eduards.tif
+0031, aks, richard-johannes.tif
+0032, ala, villu.tif
+0033, alamäe, karl.tif
+0034, alatare, rain.tif
+0035, albats, hermanis.tif
+0036, albert i.tif
+0037, alekand, richard.tif
+0038, alexander-sinclair, edwyn sinclair.tif
+0039, alfthan, kristian axel.tif
+0040, algus, august.tif
+0041, aljes, peeter.tif
+0042, alkio, santeri.tif
+0043, allik, jaan.tif
+0044, allikas, jaan.tif
+0045, allikmäe, aleksander.tif
+0046, alt, martin.tif
+0047, altoa, aleksander.tif
+0048, alujev, august.tif
+0049, alupere, jaan.tif
+0050, alvear, marcelo torcuato de.tif
+0051, alver, eduard-hans-christian.tif
+0052, ambus, johannes-aleksander.tif
+0053, ananitš, mihhail.tif
+0054, anderson, ernst.tif
+0055, anderson, viktor.tif
+0056, andreimann, daniel.tif
+0057, andrekson, johan.tif
+0058, andresmaa, bernhard-heinrich.tif
+0059, andresson, aleksander.tif
+0060, andresson, andres.tif
+0061, angelus, oskar-georg-richard.tiff
+0062, animägi, nikolai.tif
+0063, anni, anton.tif
+0064, anni, johannes-alexander.tif
+0065, annik, ferdinand-johannes.tif
+0066, anniste, johannes.tif
+0067, annuk, otto.tif
+0068, ant, evald.tif
+0069, ant, jakob.tif
+0070, anttila, einari.tif
+0071, aparnieks, artūrs osvalds.tif
+0072, arak, viktor.tif
+0073, archen, charles théophile.tif
+0074, ardel, karl.tif
+0075, arjak, johan.tif
+0076, ärma, johannes.tif
+0077, arol, aleksander.tif
+0078, aron, aleksander.tif
+0079, aron, august-eduard.tif
+0080, arras, paul.tif
+0081, artti, pontus kaarlo.tif
+0082, asmus, peeter.tif
+0083, aud, otto-mihail.tif
+0084, auer, ilmari.tif
+0085, augjärv, leonhard-theodor.tif
+0086, aukštuolis, jonas.tif
+0087, auniņš, jānis alfrēds.tif
+0088, aus, johannes.tif
+0089, avik, eduard-johannes.tif
+0090, aviste, johannes.tif
+0091, bach, eduard-adolf.tif
+0092, bachstein, aleksis-roland.tif
+0093, bajer, michał ignacy.tif
+0094, balder, august.tif
+0095, baldwin, stanley.tif
+0096, balfour, arthur james.tif
+0097, balin, aleksander.tif
+0098, balodis, jānis.tif
+0099, bangerskis, rūdolfs.tif
+0100, bartels, ado.tif
+0101, bartland, aleksander-ferdinand.tif
+0102, bauer, heinrich-nikolai.tif
+0103, bauer, mihkel.tif
+0104, baum, georg.tif
+0105, beatty, david richard.tif
+0106, beckmann, valentin.tif
+0107, beljakov, peeter.tif
+0108, berg, ermes-friedrich von.tif
+0109, berg, victor-alexander.tif
+0110, bergmann, martin-friedrich.tif
+0111, berķis, krišjānis.tif
+0112, bernard, ernst-johannes.tif
+0113, berthelot, philippe.tif
+0114, bērtulsons, fricis.tif
+0115, björksten, thure gustav alfred af.tif
+0116, blomqvist, karl lauri.tif
+0117, blumfeldt, karl.tif
+0118, bojārs, kārlis.tif
+0119, bonne, louis.tif
+0120, borgelin, richard-gustav.tif
+0121, borkman, paul-johannes.tif
+0122, borkvell, julius-albert.tif
+0123, borman, anton.tif
+0124, borodin, nikolai.tif
+0139, bõstrovski, ivan.tif
+0125, brahmann, adolf.tif
+0126, brakel, arthur-johann.tif
+0127, brede, herbert-lorenz-georg.tif
+0128, bremner, william hamilton.tif
+0129, briand, aristide.tif
+0130, bridgeman, william clive.tif
+0131, briti tundmatu sõdur.tif
+0132, brzozowski, rajmund tomasz.tif
+0133, buck, arnold.tif
+0134, busch, johannes-adolf-heinrich.tif
+0135, busch, karl.tif
+0136, busch, mathilde.tif
+0137, bušs, kārlis augusts.tif
+0138, buxhoeveden, peter-eugen-arthur.tif
+0140, čakste, jānis.tif
+0141, calonius, matti ernest gustaf.tif
+0142, carr, edward hallett.tif
+0143, cederberg, otto-elias.tif
+0144, chamberlain, joseph austen.tif
+0145, charwat, franciszek.tif
+0146, christian x.tif
+0147, christiansen, anna.tif
+0148, churchill, winston leonard spencer.tif
+0149, clemenceau, georges benjamin.tif
+0150, contarini, salvatore.tif
+0151, cowan, walter henry.tif
+0152, cunliffe-lister, philip.tif
+0153, dahlman, karl rafael.tif
+0154, dampf, alfred-michael-harald.tif
+0155, dampf, villiam-andreas.tif
+0156, dannebergs, artūrs.tif
+0157, dawley, ernest joseph.tif
+0158, debeney, marie-eugène.tif
+0159, delagarde, theodore.tif
+0160, derjugin, anatoli.tif
+0161, derrik, aleksander.tif
+0162, diaz, armando vittorio.tif
+0163, dobrzyński, wacław tadeusz.tif
+0164, dobson, claude congreve.tif
+0165, donald, david grahame.tif
+0166, doumergue, gaston.tif
+0167, dowbor-muśnicki, józef.tif
+0168, drell, august-ulrich.tif
+0169, drummond, james eric.tif
+0170, drymmer, wiktor tomir.tif
+0171, dunbar-nasmith, martin eric.tif
+0172, duņēns, kārlis.tif
+0173, dunkel, johannes.tif
+0174, dutšinski, nikolai-ferdinand.tif
+0175, eckstein, hugo-edgar.tif
+0176, eenpõllu, gustav-eduard.tif
+0177, ehrensvärd, carl august.tif
+0178, eibak, johannes.tif
+0179, eik, edgar-villiam.tif
+0180, eimre, erich-johannes.tif
+0181, einer, osvald-august.tif
+0182, einpaul, aleksander.tif
+0183, einsild, uudo alexandre.tif
+0184, einstruk, eduard-romanus.tif
+0185, eiso, vladislav-ernst-emanuel.tif
+0186, ekbaum, august.tif
+0187, ekström, martin eugén.tif
+0188, elbrecht, alfred.tif
+0189, eliste, jaan.tif
+0190, ellamaa, osvald.tif
+0191, ellandi, julius.tif
+0192, eller, oskar.tif
+0193, emar, august.tif
+0194, emery, claude scudamore.tif
+0195, enckell, carl johan alexis.tif
+0196, ende, richard.tif
+0197, endemann, jüri.tif
+0198, engmaa, arved-johannes.tif
+0199, enok, august.tif
+0200, enula, august.tif
+0201, erich, rafael waldemar.tif
+0202, erik, paul.tif
+0203, erik, voldemar.tif
+0204, erikson, andrei.tif
+0205, erikson, august.tif
+0206, erkko, erik eero.tif
+0207, erler, erich-johann-constantin.tif
+0208, erm, hans.tif
+0209, erm, konstantin-friedrich.tif
+0210, erna, pavel.tif
+0211, erschke, aleksander.tif
+0212, ervin, aleksander.tif
+0213, eskola, anto nestori.tif
+0214, estam, juhan.tif
+0215, evertson, arnold-robert.tif
+0216, falk, karl.tif
+0217, faltis, hermann.tif
+0218, feldt, edmund.tif
+0219, feofanov, georgi.tif
+0220, feofanov, peeter.tif
+0221, fischer, nikolai.tif
+0222, fisher, herbert albert laurens.tif
+0223, foch, ferdinand jean marie.tif
+0224, foelsch, hellmuth-arthur-julius.tif
+0225, folker, konstantin-kristjan-herbert.tif
+0226, forselles, jenny mathilda af.tif
+0227, fouquières, augustin pierre becq de.tif
+0228, franklin-bouillon, henry.tif
+0229, fremantle, sydney robert.tif
+0230, frey, alexander.tif
+0231, freyberg, christian-georg.tif
+0232, friedrichson, evald.tif
+0233, fuks, vladimir.tif
+0234, gade, john allyne.tiff
+0235, gascoyne-cecil, edgar algernon robert.tif
+0236, gasparri, pietro.tif
+0237, gebhardt, benno-ferdinand-leo von.tif
+0238, geldorf, peter viggo.tif
+0239, gengelbach, valter-friedrich.tif
+0240, gentalen, hendrik.tif
+0241, george v.tif
+0242, gerretz, paul.tif
+0243, gloy, georg-eduard-joachim-adolph von.tif
+0244, göös, karl hjalmar.tif
+0245, gough, hubert de la poer.tif
+0246, grabski, władysław dominik.tif
+0247, grant, johannes.tif
+0248, gregor, jaak.tif
+0249, gregory, john duncan.tif
+0250, grenz, valentin-martin.tif
+0251, groome, john charles.tif
+0252, gröön, eduard.tif
+0253, gross, friedrich-bruno.tif
+0254, grossberger, erich-nicolai.tif
+0255, groundstroem, ensio edvard gabriel.jpg
+0256, grünberg, karl-richard.tif
+0257, gudme, iver de hemmer.tif
+0258, gudme, peter de hemmer.tif
+0259, gurjanov, nikolai.tif
+0260, gustav v.tif
+0261, gustavson, august.tif
+0262, gustavson, konstantin.tif
+0263, haas, karl-friedrich.tif
+0264, haasma, rudolf.tif
+0265, habermann, karl-leopold.tif
+0266, häelme, aleksander-johannes.tif
+0267, hahn, johan-heinrich.tif
+0268, haig, douglas.tif
+0269, hainsalu, johannes.tif
+0270, håkansson, lars.tif
+0271, haking, richard cyril byrne.tif
+0272, hakk, hugo-voldemar.tif
+0273, häll, pietari einar.tif
+0274, haller de hallenburg, józef.tif
+0275, haller de hallenburg, stanisław.tif
+0276, halliku, arthur-johannes.tif
+0277, hanbury-williams, john.tif
+0278, hannikainen, karl onni gerhard.tif
+0279, hänninen, mikko.tif
+0280, hannon, patrick joseph henry.tif
+0281, hannula, erkki.tif
+0282, hansar, paul-johannes.tif
+0283, hansen, andres.tif
+0284, hansen, edgar-harry-hermann.tif
+0285, hansen, karl.tif
+0286, hansen, osvald.tif
+0287, hanson, jaan, hansu p.tif
+0288, hanson, jaan, jaani p.tif
+0289, hanson, paul.tif
+0290, hanssoo, jaan.tif
+0291, hanstein, balder.tif
+0292, harjakas, hans.tif
+0293, harju, kaarlo eerikki.tif
+0294, harjusvuo, vilho akseli.tif
+0295, hartmanis, mārtiņš.tif
+0296, hasmanis, viktors.tif
+0297, haudumägi, august.tif
+0298, havas, väinö rafael.tif
+0299, hedberg, august reinhold.tif
+0300, hein, tiido.tif
+0301, heinaru, enn.tif
+0303, heinmaa, johannes-eduard.tif
+0302, heinmaa, johannes-eduard.tif
+0304, heinmaa, juhan, jakobi p.tif
+0305, heinrichsen, edgar-georg-heinrich.tif
+0306, heinrichsen, johnny.tif
+0307, heinrichsen, karen.tif
+0308, heinsalu, jaak.tif
+0309, heinsalu, kaljo.tif
+0310, heinze, otto-emil-eduard.tif
+0311, heljuste, jaan.tif
+0312, hellat, jüri.tif
+0313, helm, jaan.tif
+0314, helsingius, karl birger.tif
+0315, helske, lauri jafet.tif
+0316, henderson, loy wesley.tif
+0317, henno, johan.tif
+0318, herem, paul-nikolai-johann.tif
+0319, herm, johannes-eduard.tif
+0320, herne, alfred.tif
+0321, herne, eduard.tif
+0322, herriot, édouard.tif
+0323, hiielaid, hendrik.tif
+0324, hillilä, kaarlo henrik.tif
+0325, hindreus, egon-ferdinand.tif
+0326, hindse-nielsen, svend.tif
+0327, hinno, aleksander.tif
+0328, hinno, paul.tif
+0329, hinnom, arnold-johannes.tif
+0330, hinnov, ludvig.tif
+0331, hinterhoff, eugenjusz.tif
+0332, hinto, arved.tif
+0333, hints, martin-august.tif
+0334, hiob, richard-eduard.tif
+0335, hion, viktor.tif
+0336, hirjel, jaan.tif
+0337, hirve, vladimir.tif
+0338, hirvelaan, hans.tif
+0339, hjelt, vera augusta.tif
+0340, hjorth, valborg.tif
+0370, hõbemägi, edgar-johannes.tif
+0341, hoffart, robert.tif
+0342, holberg, johan.tiff
+0343, holcmanis, vilis.tif
+0344, hold, herbert-andreas.tif
+0345, holland, johannes-voldemar.tif
+0346, holm, harald-matthias.tif
+0347, holm, heinrich.tif
+0348, holma, harri gustaf.tif
+0349, holopainen, eino.tif
+0350, holsmann, johann-ferdinand.tif
+0351, holstein, ernst emil.tif
+0352, holsti, eino rudolf woldemar.tif
+0353, honkajuuri, iivari mauri.tif
+0354, honnorat, andré.tif
+0355, hook, reinhold.tif
+0356, horn, julius.tif
+0357, hornborg, eirik mikael.tif
+0358, horthy de nagybánya, miklós.tif
+0359, horton, max kennedy.tif
+0360, howard, esme william.tif
+0361, hoyningen-huene, hermann-hans-jürgen von.tif
+0362, hunt, karl.tif
+0363, hunt, reinhold-aleksander.tif
+0364, hüppler, edmund-rudolf.tif
+0365, hurmerinta, kaarlo viktor.tif
+0366, hurt, richard.tif
+0367, hussar, jaan.tif
+0368, hüvato, valdur.tif
+0369, hymans, paul louis adrien henri.tif
+0371, ibrus, hellmuth-matthias.tif
+0372, idam, hans.tif
+0373, idman, karl gustaf.tif
+0374, iir, märt.tif
+0375, ilme, ernst-august.tif
+0376, ilmet, salme.tif
+0378, ilves, aleksander.tif
+0377, ilves, august.tif
+0379, ingel, johannes.tif
+0380, inti, oskar.tif
+0381, irv, anton.tif
+0382, ishii, kikujirō.tif
+0383, isotalo, antti.tif
+0384, itaalia tundmatu sõdur.tif
+0385, ivalo, santeri.tif
+0386, ivand, karl.tif
+0387, ivansons, oskars arveds.tif
+0388, iwaszkiewicz-rudoszański, wacław teodor.tif
+0389, jaago, arnold.tif
+0390, jaagura, mart.tif
+0391, jaakson, aleksander.tif
+0392, jaakson, jaan.tif
+0393, jaakson, jüri.tif
+0394, jaanberg, aleksander-albert.tif
+0395, jaanimets, karl.tif
+0396, jaanso, otto.tif
+0397, jaanson, robert-johann.tif
+0398, jaanus, karl.tif
+0399, jagomäe, karl-robert.tif
+0400, jakobsen, ludvig-karl.tif
+0401, jakobson, karl.tif
+0402, jakobson, villem.tif
+0403, jalakas, karl-arnold.tif
+0404, jänes, feliks.tif
+0405, jansen, juhan.tif
+0406, janson, nikolai.tif
+0407, jansons, jūlijs voldemārs.tif
+0408, jantov, jüri.tif
+0409, järve, august.tif
+0410, järvekülg, georg-bernhard.tif
+0411, järvelaid, aleksander.tif
+0412, järver, juhan.tif
+0413, jędrzejewicz, wacław.tif
+0414, jens, hugo-johannes.tif
+0415, jensen, august.tif
+0416, jervan, martin-volmer.tif
+0417, joaste, elmar.tif
+0453, jõelaid, henrik.tif
+0454, jõerand, mart.tif
+0455, jõesaar, viktor.tif
+0456, jõgevest, juhan.tif
+0457, jõgi, eduard.tif
+0458, jõgi, johannes.tif
+0418, johannes, adolf-mihkel.tif
+0419, johannes, peeter-adolf.tif
+0420, johannson, arthur.tif
+0421, johanson, eduard.tif
+0422, johanson, mart.tif
+0423, johnwick, stanley adam.tif
+0424, jokinen, elias.tif
+0425, jokioinen, eino urho kustaa.tif
+0426, jonson, gustav.tif
+0459, jõõks, hans.tif
+0427, joonet, alfred-evald.tif
+0428, jouvenel, henry de.tif
+0429, jungermann, johan.tif
+0439, jungerth-arnóthy, michael.tif
+0430, junkur, jaan.tif
+0431, junts, august-johannes.tif
+0432, jürgen, jüri.tif
+0433, jürgens, arnold-johannes.tif
+0434, jürgens, eduard-johannes.tif
+0435, jürgens, hermann.tif
+0436, jürgens, jakob.tif
+0437, jürgenson, hugo-vilhelm-leonhard.tif
+0438, jürgenson, julius.tif
+0440, jürima, egbert-michael.tif
+0441, jürimaa, johannes.tif
+0442, jürimäe, aleksander.tif
+0443, jürine, mart.tif
+0444, jüris, johan.tif
+0445, jürisoo, peeter.tif
+0446, jürisson, johannes.tif
+0447, jürisson, voldemar.tif
+0448, jüriste, juhan.tif
+0449, jürna, johannes-aleksander.tif
+0450, jürvetson, jüri.tif
+0451, jürvetson, voldemar.tif
+0452, juurisma, adrian-endrek.tif
+0460, kaal, karl.tif
+0461, käär, jaan.tif
+0462, kaasik, august.tif
+0463, kaasik, leonhard-karl.tif
+0464, kaasik, priidu.tif
+0465, kabur, peeter.tif
+0466, kadak, jaan.tif
+0467, kadak, karl.tif
+0468, kadaksaar, aleksander.tif
+0469, kadarik, peeter.tif
+0470, kahro, otto-karl.tif
+0471, kaigas, aleksander.tif
+0472, käige, herbert.tif
+0473, kaila, elmo edvard.tif
+0474, kajak, johannes-richard.tif
+0475, kalbas, johannes.tif
+0476, kalberg, teodor.tif
+0477, kalda, jakob.tif
+0478, kalda, joann.tif
+0479, kalda, karl.tif
+0480, kaldamäe, valdik.tif
+0481, kaldas, august.tif
+0482, kalde, jakob.tif
+0483, kaldmäe, eduard.tif
+0484, kaldveer, juhan.tif
+0485, kalervo, vilho kustaa.tif
+0486, kalev, georg.tif
+0487, kalikorm, heinrich-martin.tif
+0488, kaljund, tõnis.tif
+0489, kaljuste, rudolf.tif
+0490, kaljuver, eduard.tif
+0491, kallas, august.tif
+0492, kallas, oskar-philipp.tif
+0493, kallaste, georg.tif
+0494, kalle, ferdinand-magnus.tif
+0495, kallio, kyösti.tif
+0496, kallio, sulo antero petter.tif
+0497, kallioinen, lauri.tif
+0498, kallmann, jüri.tif
+0499, kallo, hans.tif
+0500, kalm, hans.tif
+0501, kalm, kaarel-johannes.tif
+0502, kalm, teodor.tif
+0503, kalmet, kristjan.tif
+0504, kalnings, ringolds frīdrihs magnuss.tif
+0505, kalniņš, eduards.tif
+0506, kalniņš, jānis.tif
+0507, kalpa, kaarlo ilmari.tif
+0508, kalter, johannes.tif
+0509, kalvi, johannes.tif
+0510, kalvik, aleksander.tif
+0511, kanarik, villem.tif
+0512, kanasaar, peeter-victor.tif
+0513, kanep, konstantin.tif
+0514, kang, karl-august.tif
+0515, kanger, karl.tif
+0516, kangro, august.tif
+0517, kangro, gottfried-roman.tif
+0518, kangro, rené-paul-ferdinand.tif
+0519, kangro, roland.tif
+0520, kann, peeter.tif
+0521, kannelaud, julius.tif
+0522, kapsi, friedrich-johann.tif
+0523, kapstas, aleksander.tif
+0524, kaptein, rudolf.tif
+0525, karineem, willem.tif
+0526, karing, voldemar-nikolai.tif
+0527, karjel, juko.tif
+0528, karjel, lembit.tif
+0529, karklin, alfred-georg.tif
+0530, karlson, august.tif
+0531, karlson, jaan.tif
+0532, karm, jaan.tif
+0533, karm, osvald.tif
+0534, kärmas, johan.tif
+0535, kärmas, villem.tif
+0536, kärme, mihail.tif
+0537, kartna, artur.tif
+0538, karu, eduard.tif
+0539, karu, hans.tif
+0540, karu, julius.tif
+0541, karumets, mart.tif
+0542, karunga, robert-johannes.tif
+0543, kasak, august.tif
+0544, kase, johan-leonhard.tif
+0545, kasekamp, august.tif
+0546, kasemaa, julius.tif
+0547, kasemaa, kaarel.tif
+0548, kasepalu, friedrich-roman.tif
+0549, kask, aleksander.tif
+0550, kask, august.tif
+0551, kask, heinrich.tif
+0552, kask, karl.tif
+0553, kask, otto.tif
+0554, kask, peeter-johann.tif
+0555, kask, rahuleid-julius-max.tif
+0556, kask, rudolf-johannes.tif
+0557, kask, vassili.tif
+0558, kask, voldemar.tif
+0559, kaskla, jüri.tif
+0560, kasparsons, mārtiņš eduards johans.tif
+0561, kasper, julius.tif
+0562, käspre, ants.tif
+0563, kass, peeter.tif
+0564, kaste, rudolf.tif
+0565, kastema, osvald.tif
+0566, kattai, juhan.tif
+0567, kattel, voldemar.tif
+0568, kauler, hugo-eduard.tif
+0569, kaup, jaan.tif
+0570, kauts, gustav.tif
+0571, kedder, johannes.tif
+0572, keek, hans.tif
+0573, keerd, karl-eduard.tif
+0574, keerdoja, karl-robert.tif
+0575, keermaa, oskar.tif
+0576, keerpärg, julius.tif
+0577, keizerlings, arčibalds pēteris teofils aleksandrs gebhards eduards von.tif
+0578, kelk, juhan.tif
+0579, kendra, julius.tif
+0580, keng, august.tif
+0581, kepmann, martin-alexander.tif
+0582, keskküla, kristof.tif
+0583, kesksalu, jakob.tif
+0584, kesküla, aleksander.tif
+0585, kesküla, georg.tif
+0586, kesküla, mihail.tif
+0587, kessler, edmund.tif
+0588, kettunen, hilja armida.tif
+0589, kettunen, lauri einari.tif
+0590, kevend, karl.tif
+0591, kielberg, august-johannes.tif
+0592, kiigemaa, aleksander.tif
+0593, kiili, joosep.tif
+0594, kiisvek, martin.tif
+0595, kikas, oskar.tif
+0596, kikerpill, karl.tif
+0597, kilm, ludolf.tif
+0598, kimmel, karl.tif
+0599, kindlam, theodor-friedrich.tif
+0600, kingo, august-johann.tif
+0601, kink, hans.tif
+0602, kink, johannes-heinrich.tif
+0603, kippar, johannes.tif
+0604, kippus, johannes-ferdinand-osvald.tif
+0605, kirkmann, hans.tif
+0606, kirnmann, evald-ottokar.tif
+0607, kirotar, elmar-juhan.tif
+0608, kirs, august.tif
+0609, kirschbaum, richard-johann.tif
+0610, kirsipuu, robert-heinrich.tif
+0611, kirt, peeter.tif
+0612, kits, johannes.jpg
+0613, kitsel, andres.tif
+0614, kitsing, jaak.tif
+0615, kitsing, richard.tif
+0616, kiudorv, artur.tif
+0617, kivekäs, kaarlo edvard.tif
+0618, kivilo, eik.tif
+0619, kivilo, martin-johannes.tif
+0620, kivilo, rudolf.tif
+0621, kivimurd, otto.tif
+0622, kivinurm, alfred-ferdinand.tif
+0623, kivirand, victor-adalbert-osvald.tif
+0624, kivisaar, peeter.tif
+0625, kiviväli, johannes.tif
+0626, klaar, jaen.tif
+0627, klaas, aleksander.tif
+0628, klaasen, herman.tif
+0629, klamas, johannes.tif
+0630, klasing, aleksander.tif
+0631, klasmann, julius-august.tif
+0632, klein, karl.tif
+0633, klein, valdemar anton carl.tif
+0634, klement, daniel-rudolf.tif
+0635, klemetti, heikki valentin.tif
+0636, klesment, johannes.tif
+0637, klettenberg, aleksander.tif
+0638, klimbek, jaan.tif
+0639, koern, august.tif
+0640, koern, tõnis.tif
+0641, koern, viktor.tif
+0642, koger, ado.tif
+0643, koger, juhan.tif
+0644, koger, karl-elmar.tif
+0645, kohk, johannes.tif
+0646, koht, voldemar-karl.tif
+0647, koidu, jaan.tif
+0648, koik, allo.tif
+0649, koik, ants.tif
+0650, koik, jaak.tif
+0651, koik, nikolai.tif
+0652, koitla, jakob.tif
+0776, kõiv, julius-rudolf.tif
+0653, koivisto, eino yrjö.tif
+0654, kokk, märt.tif
+0655, kokk, oskar.tif
+0656, koks, martin.tif
+0657, kolde, friedrich-johannes.tif
+0658, koljonen, tuomas vilho.tif
+0659, kolk, eduard.tif
+0660, kolle, andres.tif
+0777, kõlljalg, johannes.tif
+0661, kolts, peeter.tif
+0662, kolviko, alfred-leopold.tif
+0663, komatsubara, michitaro.tif
+0664, konga, voldemar.tif
+0665, kongo, oskar.tif
+0666, konik, konstantin-aleksander-oskar.tif
+0667, konks, aleksander.tif
+0668, kook, august-eduard.tif
+0669, kool, karl-alexander.tif
+0670, koorits, august.tif
+0671, köösel, elmar-oscar.tif
+0672, köösel, leo-friedrich.tif
+0673, koot, peeter-ernst.tif
+0674, koov, johan.tif
+0675, koppel, hendrik.tif
+0676, koppel, karl-oskar.tif
+0677, kore, tiidu.tif
+0678, korjus, karel-adolf.tif
+0679, kork, jüri.tif
+0680, kornel, karl-ferdinand.tif
+0681, korts, august.tif
+0682, korts, joosep.tif
+0778, kõrtsmik, mihail.tif
+0683, korv, arthur.tif
+0684, kose, anton.tif
+0685, kosk, mihkel.tif
+0686, kosk, rudolf-eduard.tif
+0687, koskinen, paavali johannes.tif
+0688, kosola, iisakki vihtori.tif
+0689, köster, oskar.tif
+0690, köstner, nikolai.tif
+0691, kottise, august.tif
+0779, kõu, jaak.tif
+0780, kõue, jaan.tif
+0692, kovkin, boris.tif
+0693, krastin, valfried.tif
+0694, kraus, aleksander.tif
+0695, krimming, arthur-joseph.tif
+0696, kromel, gustav-karl.tif
+0697, kronk, konstantin.tif
+0698, krull, leonhard-johann.tif
+0699, krup, hans.tif
+0700, kruus, aleksander.tif
+0701, kruus, hans.tif
+0702, kruus, jaan.tif
+0703, kruusa, voldemar.tif
+0704, kruuse, johannes.tif
+0705, kruuse, karl-voldemar.tif
+0706, kruusement, peeter.tif
+0707, kruusimägi, albert.tif
+0708, kruusmann, jüri.tif
+0709, kübar, rudolf.tif
+0710, kubbo, eduard-alfred.tif
+0711, kubu, heinrich-august.tif
+0712, kügler, konrad-gerhard-theophil.tif
+0713, kukebal, friedrich-johann.tif
+0714, kukk, anna-marie.tif
+0715, kukk, arne.tif
+0716, kukk, eduard.tif
+0717, kukk, johannes.tif
+0718, kukk, juhan.tif
+0719, kukk, mihkel.tif
+0720, külaots, leonhard-johannes.tif
+0721, kulasalu, august.tif
+0722, kulbok, hugo.tif
+0723, kuldna, johannes.tif
+0724, kuldsepp, hans.tif
+0725, kulgver, aleksander.tif
+0726, kull, august, anni p.tif
+0727, kull, august, jaani p.tif
+0728, kull, villem.tif
+0729, kullamäe, jaan.tif
+0730, kullasepp, martin.tif
+0731, külmhallik, martin.tif
+0732, kunder, aleksander.tif
+0733, küngas, juhan.tif
+0734, kungla, gustav.tif
+0735, kunila, aarne.tif
+0736, künnapuu, arthur-nicolai.tif
+0737, künnapuu, avo.tif
+0738, künnapuu, johan.tif
+0739, kunnus, paul-alexander.tif
+0740, kuperjanov, julius.tif
+0741, kuplais, eduards.tif
+0742, küppar, modest.tif
+0743, kurejoki, eero kustaa.tif
+0744, kurelauk, rudolf.tif
+0745, kurg, friedrich.tif
+0746, kurik, august.tif
+0747, kurm, jakob.tif
+0748, kurre, maks.tif
+0749, kurro, august.tif
+0750, kurs, voldemar.tif
+0751, kurše, arnolds.tif
+0752, kursk, emil-aleksander-leonhard.tif
+0753, kurvinen, otto.tif
+0754, kurvits, ants.tif
+0755, kurvits, jaan.tif
+0756, kurvits, oskar.tif
+0757, kurvits, peeter.tif
+0758, kuslap, rudolf.tif
+0759, kussal, eduard.tif
+0760, kutrzeba, tadeusz andrzej.tif
+0761, kutsar, jaan.tif
+0762, kutser, eduard.tif
+0763, kütt, georg.tif
+0764, küttis, johannes.tif
+0765, kuul, roman.tif
+0766, kuurberg, august.tif
+0767, kuus, heinrich-elias.tif
+0768, kuusik, edgar-johann.tif
+0769, kuusik, karl.tif
+0770, kuusk, adolf.tif
+0771, kuusk, eduard-emil.tif
+0772, kuusk, hans.tif
+0773, kuuskand, jakob-august.tif
+0774, kuussaari, eero vilho.tif
+0775, kvell, oskar.tif
+0781, la pradelle, albert de geouffre de.tif
+0782, laamann, paul-georg.tif
+0783, laane, peeter.tif
+0784, lääne, voldemar.tif
+0785, laanemets, eduard.tif
+0786, laansoo, gustav.tif
+0787, laarmann, jaan-raimund.tif
+0788, laarmann, otto.tif
+0789, laas, mihkel.tif
+0790, laats, artur-johannes.tif
+0791, laatsarus, karl.tif
+0792, lagerström, valter isidorus.tif
+0793, lahti, aimo.tif
+0794, laidoner, johan.tif
+0795, laidroo, aleksander-heinrich.tif
+0796, laimiņš, eduards kārlis osvalds.tif
+0797, laine, karl.tif
+0798, laipmann, aleksander-hans.tif
+0799, lambart, frederick rudolph.tif
+0800, lamberg, arnold-friedrich-johannes.tif
+0801, lampson, eduard.tif
+0802, lannes, aleksander.tif
+0803, lantov, albrecht-ferdinand.tif
+0804, lapp, alfred-theodor.tif
+0805, laretei, heinrich.tif
+0806, larka, andres.tif
+0807, larka, johannes.tif
+0808, larm, august.tif
+0809, laroche, jules alfred.tif
+0810, larven, johannes-alfred.tif
+0811, lasn, juhan.tif
+0812, lass, oskar.tif
+0813, lassila, helge emil.tif
+0814, lätt, johannes-arnold.tif
+0815, laur, anton.tif
+0816, laur, georg.tif
+0817, lauramo, ludvig.tif
+0818, laurits, karl-johann.tif
+0819, laurits, paul.tif
+0820, laurson, leo.tif
+0821, laus, hain.tif
+0822, lauter, predik.tif
+0823, lavonius, wilhelm alexander.tif
+0824, lee, mardo.tif
+0825, leedmaa, villem.tif
+0826, leeman, boris.tif
+0827, leesment, hans.tif
+0828, leetmaa, ado.tif
+0829, leets, georg.tif
+0830, leets, nikolai.tif
+0831, leetus, karl.tif
+0832, lehtmets, eduard-julius.tif
+0833, leibach, karl.tif
+0834, leisk, august.tif
+0835, leisner, jaan.tif
+0836, leitma, jaan.tif
+0837, leius, kaarel.tif
+0838, lekstein, mihkel.tif
+0839, lell, arnold.tif
+0840, lell, august.tif
+0841, lell, nikolai.tif
+0842, lemann, herbert-michael.tif
+0843, lender, jaan.tif
+0844, lensment, karl.tif
+0845, lensu, toivo.tif
+0846, lents, vaabu.tif
+0848, lepik, jaan, aadu p.tif
+0849, lepist, johannes-friedrich.tif
+0850, lepp, jaan.tif
+0851, leppik, andreas.tif
+0847, leppik, arnold.tif
+0852, leppik, august.tif
+0853, leppik, jaan, villemi p.tif
+0854, leppikson, arhalt-julius.tif
+0855, leppmets, hans.tif
+0856, lerche, flemming emil harald albrecht.tif
+0857, leslie, james edmund peter.tif
+0858, lessel, richard-vilhelm-paul.tif
+0859, leth, gustaf hjalmar.tif
+0860, lett, nikolai.tif
+0861, lettens, hindrik.tif
+0862, libene, martin.tif
+0863, liblik, august.tif
+0864, liibus, eduard-ervin.tif
+0865, liik, oskar.tif
+0866, liiv, georg.tif
+0867, liiv, hans.tif
+0868, liiv, vilhelm-heinrich.tif
+0869, liivak, viktor.tif
+0870, liivamägi, karl-friedrich.tif
+0871, lill, august.tif
+0872, lill, paul-adolf.tif
+0873, lillak, arnold.tif
+0874, lillakas, hans.tif
+0875, lilleleht, paul-august.tif
+0876, lillemaa, aado.tif
+0877, lillemägi, jaak.tif
+0878, lillenstern, johan.tif
+0879, limberg, ernst-karl-johannes.tif
+0880, lind, aleksander.tif
+0881, lind, jaan.tif
+0882, lind, karl.tif
+0883, linde, aleksander-august.tif
+0884, linde, mihkel.tif
+0885, lindell, leo oskar.tif
+0886, lindemann, konstantin.tif
+0887, lindmäe, verner.tif
+0888, lindqvist, gunnar isak.tif
+0889, lindre, leopold.tif
+0890, lindus, johannes.tif
+0891, lindvers, julius-aleksander.tif
+0892, link, eduard.tif
+0893, link, nikolai-vilhelm.tif
+0894, linnamägi, karl.tif
+0895, linneberg, bruno-aleksander.tif
+0896, linno, august-ferdinand.tif
+0897, linno, richard-johannes.tif
+0898, linnus, ferdinand.tif
+0899, lints, rudolf-johannes.tif
+0900, lipand, harald.tif
+0901, lipand, karl.tif
+0902, lipmann, johan-arthur.tif
+0903, lippus, johannes.tif
+0904, lips, peeter.tif
+0905, lipstok, heinrich.tif
+0906, listakind, paul.tif
+0907, lloyd george, david.tif
+0908, lloyd, humphrey willis chetwode.tif
+0909, lobjakas, artur-alfred.tif
+0910, lode, torsten leonhard.tif
+0952, lõhmus, ants.tif
+0953, lõhmus, jakob.tif
+0954, lõhmus, juhan.tif
+0955, lõhmus, karl.tif
+0911, loide, endel.tif
+0912, lokko, gustav.tif
+0913, lomus, eduard.tif
+0956, lõokene, aleksander.tif
+0957, lõõndre, julius.tif
+0914, loorits, artur.tif
+0915, loorits, gustav.tif
+0916, loorits, villem.tif
+0917, loos, eduard.tif
+0918, loosberg, johannes.tif
+0919, lossmann, arthur-alexander.tif
+0920, lossmann, tõnis.tif
+0921, louhivuori, oskari wilho.tif
+0922, luberg, heinrich.tif
+0923, lubi, jüri.tif
+0924, lugus, jaan.tif
+0925, luha, eduard.tif
+0926, luhaäär, karl.tif
+0927, luhaär, ilmar.tif
+0928, luhe, aleksander-heinrich.tif
+0929, luiga, adalbert-hugo.tif
+0930, luiga, aleksander.tif
+0931, luiga, hans.tif
+0932, luiga, johannes.tif
+0933, luiga, oskar.tif
+0934, luik, aleksander.tif
+0935, luik, paul.tif
+0936, luik, richard-august.tif
+0937, luik, voldemar.tif
+0938, lukas, albert.tif
+0939, lukas, jaan.tif
+0940, łukaśiewicz, juliusz.tif
+0941, lukk, gerhard-eugen.tif
+0942, lukk, herbert-peeter.tif
+0943, lumi, jaan.tif
+0944, lund, anna margrete.tif
+0945, lundborg, einar paul albert muni.tif
+0946, lust, rudolf-aleksander.tif
+0947, luts, karl-friedrich.tif
+0948, lutsar, julius.tif
+0949, luulik, madis.tif
+0950, lüüs, aado.tif
+0951, lyly, kosti johannes.tif
+0958, maaniidi, august.tif
+0959, maarits, august.tif
+0960, maasik, kristov.tif
+0961, maasing, richard.tif
+0962, madisson, johann.tif
+0963, madiste, konstantin.tif
+0964, mäepõld, martin-johannes.tif
+0965, mäeste, valdo.tif
+0966, mager, rudolf.tif
+0967, mägi, august.tif
+0968, mägi, evald.tif
+0969, mägi, juhan.tif
+0970, magus, priidu.tif
+0971, mähar, jakob.tif
+0972, mahnke, arthur-georg-richard.tif
+0973, mahnke, christoph-friedrich-johannes.tif
+0974, maide, eduard.tif
+0975, maide, jaan.tif
+0976, maide, johannes-voldemar.tif
+0977, maim, hermann.tif
+0978, maim, richard-johannes.tif
+0979, maisaar, jaanus-karl.tif
+0980, maisma, juhan.tif
+0981, maiste, aleksander.tif
+0982, mäki, vilho.tif
+0983, makkar, hugo.tif
+0984, makko, rudolf.tif
+0985, malevitš, aleksander.tif
+0986, malken, jaan.tif
+0987, mälkönen, aino.tif
+0988, malm, priidik.tif
+0989, malmberg, carl-georg.tif
+0990, malmberg, kaarlo lauri thorvald.tif
+0991, mamers, oskar-heinrich.tif
+0992, mänd, hugo.tif
+0993, mänd, johannes.tif
+0994, mänd, julius.tif
+0995, mänd, mihkel.tif
+0996, mänd, oskar.tif
+0997, mandel, august.tif
+0998, mändmets, karl-georg.tif
+0999, mändoja, karl-eduard.tif
+1000, männik, august.tif
+1001, männik, eduard.tif
+1002, männik, elmar-friedrich.tif
+1003, männik, jaan.tif
+1004, männik, johannes.tif
+1005, männik, otto.tif
+1006, männik, villem.tif
+1007, manninen, eero niilo.tif
+1008, männiste, august.tif
+1009, mansik, hermann.tif
+1010, mantecón, antonio e..tif
+1011, marder, villem-gustav.tif
+1012, maremaa, edgar-eduard.tif
+1013, marguste, eduard.tif
+1014, maripuu, villem.tif
+1015, marsh, frank graham.tif
+1016, martin, franz-heinrich.tif
+1017, martin, vassili.tif
+1018, martinson, august.tif
+1019, martinson, johannes.tif
+1020, martma, felix-martin-conrad.tif
+1021, martna, mihkel.tif
+1022, märtson, jaan.tif
+1023, marttinen, einar isakki.tif
+1024, maruste, andrei.tif
+1025, masik, joann.tif
+1026, masti, indrek.tif
+1027, mätas, jaan.tif
+1028, mätlik, arnold-ervin.tif
+1029, matsalo, ants.tif
+1030, matson, jaan.tif
+1031, mattus, enn.tif
+1032, matuszewski, ignacy hugo.tif
+1033, māziņš, ādolfs.tif
+1034, meel, konstantin.tif
+1035, meeme, juhan.tif
+1036, meerpuu, aleksander.tif
+1037, meet, märt.tif
+1038, meidla, eduard.tif
+1039, meidla, teodor-rudolf.tif
+1040, meierovics, zigfrīds anna.tif
+1041, meijel, eduard.tif
+1042, meiklejohn, ronald forbes.tif
+1043, meiner, tõnis.tif
+1044, meister, kristjan.tif
+1045, mekler, johannes.tif
+1046, mekšs, jānis.tif
+1047, melts, aleks-henn.tif
+1048, melts, eduard-kristjan.tif
+1049, meltsas, peeter.tif
+1050, mend, wilhelm.tif
+1051, menning, karl.tif
+1052, mere, valev.tif
+1053, merela, jaan.tif
+1054, meremaa, priidu.tif
+1055, meris, mihkel.tif
+1056, mesi, voldemar.tif
+1057, mets, aleksander.tif
+1058, mets, jaan.tif
+1059, metsalu, juhan.tif
+1060, miettinen, eero.tif
+1061, miglavs, jānis.tif
+1062, mihk, rudolf.tif
+1063, miido, eustaatius.tif
+1064, miil, karl.tif
+1065, mikker, arnold-michail.tif
+1066, mikli, kustav.tif
+1067, milistfer, jaan.tif
+1068, miller, hans.tif
+1069, miller, reinhold.tif
+1070, millerand, alexandre.tif
+1071, millistfer, johan.tif
+1072, mirka, andres.tif
+1073, mitt, jakob.tif
+1074, mitt, johann, karli p.tif
+1075, mitt, johann, simmi p.tif
+1076, mitt, karla.tif
+1077, mitt, osvald-kristjan.tif
+1078, mohov, semjon.tif
+1079, moik, bernhard-johannes.tif
+1080, moks, august.tif
+1081, møller, jenny.tif
+1082, møller, signe.tif
+1083, möllerson, rudolph-alexander.tif
+1084, mölter, theodor.tif
+1085, moor, voldemar.tif
+1086, moora, harri.tif
+1087, moorits, paul.tif
+1088, moorlat, eduard.tif
+1089, morel, adam.tif
+1090, morison, samuel eliot.tif
+1119, mõtsur, peeter.tif
+1120, mõttus, aleksander.tif
+1121, mõttus, johann.tif
+1091, mühlverk, paul-ferdinand.tif
+1092, muide, rudolf.tif
+1093, muinasmaa, jaan.tif
+1094, muldau, jüri von.tif
+1095, muldau, nicolai-heinrich-carl-amandus von.tif
+1096, muldma, magnus.tif
+1097, mullari, raiu.tif
+1098, mullart, michail-johann.tif
+1099, müller, karl-emil-hans.tif
+1100, müllerson, elmar.tif
+1101, müllerson, juhan.tif
+1102, multer, heinrich-eduard.tif
+1103, munner, jakob.tif
+1104, munters, gothards vilhelms nikolajs.tif
+1105, murde, jaan.tif
+1106, murelik, leopold.tif
+1107, murumaa, august.tif
+1108, murumägi, johannes-eduard.tif
+1109, mussolini, benito amilcare andrea.tif
+1110, must, magnus.tif
+1111, mutli, artur.tif
+1112, muts, aleksander.tif
+1113, muts, johannes-friedrich.tif
+1114, mutt, viktor.tif
+1115, muul, mihkel.tif
+1116, müür, paul.tif
+1117, müürik, aleksander.tif
+1118, myszkowski, aleksander zygmunt.tif
+1122, naaris, jaan.tif
+1123, naarits, kaarel.tif
+1124, naaskel, aleksander-leopold.tif
+1125, naelaste, jüri.tif
+1126, naistem, voldemar.tif
+1127, näripea, aleksander.tif
+1128, närska, august.tif
+1129, naska, johannes.tif
+1130, naumann, jaan.tif
+1131, neem, jaan.tif
+1132, neemre, emil-heinrich.tif
+1133, neerut, hans.tif
+1134, neggo, edgar-richard.tif
+1135, neigardt, arnold.tif
+1136, neps, eduard-jakob.tif
+1137, nerep, elmar.tif
+1138, nestra, alfred-julius.tif
+1139, nicaise, michel edouard.tif
+1140, nieminen, arthur-hemming.tif
+1141, niggol, aleksander.tif
+1142, niggol, arnold.tif
+1143, nigul, jüri.tif
+1144, nigulas, hugo.tif
+1145, niimeister, peeter.tif
+1146, niit, evart.tif
+1147, niitme, heino.tif
+1148, nikolai, erik-friedrich-georg.tif
+1149, niskanen, ville.tif
+1163, nõgu, aleksander.tif
+1164, nõmme, johannes.tif
+1165, nõmmik, martin.tif
+1166, nõmmik, mihkel.tif
+1150, nool, paul-eduard.tif
+1151, normak, aleksander-mihkel.tif
+1152, normak, arnold-reinhard.tif
+1153, normak, otto-lembit.tif
+1154, norman, johannes-theodor.tif
+1155, norme, karl holger athniel.tif
+1156, normet, jaan.tif
+1167, nõu, bernhard.tif
+1157, nukk, august-ulrich.tif
+1158, nurklik, gustav.tif
+1159, nurmberg, otto.tif
+1160, nutt, juhan.tif
+1161, nuut, jaan.tif
+1162, nuut, villem.tif
+1168, oehren, erich-bernhard.tif
+1169, ohak, mihkel.tif
+1170, oidermann, otto.tif
+1171, oit, otto-voldemar.tif
+1172, oivo, ragnar rafael.tif
+1173, oja, andreas.tif
+1174, oja, jaan.tif
+1175, ojakäär, tõnis.tif
+1177, ojamaa, aleksander, ilja p.tif
+1176, ojamaa, aleksander, mardi p.tif
+1178, ojangu, aleksander.tif
+1179, ojansuu, heikki august.tif
+1180, ojasoon, albert.tif
+1181, ojasson, ulrich-august.tif
+1182, ojaste, eduard.tif
+1183, oksaar, märt.tif
+1184, olander, hugo karl.tif
+1185, olbrei, friedrich-alfred.tif
+1186, oldekop, johannes-adelbert.tif
+1187, olev, jaan.tif
+1188, oll, vassili.tif
+1189, ollmann, johannes.tif
+1190, olsen, caroline.tif
+1191, onni, heino.tif
+1192, oopkaup, anton.tif
+1193, opffer, søren christian.tif
+1194, opmanis, rūdolfs voldemārs.tif
+1195, orasmaa, johannes.tif
+1196, orasmäe, jaagub-rudolf.tif
+1198, orav, august.tif
+1197, orav, august-karl.tif
+1199, orav, gustav.tif
+1200, orav, juhan.tif
+1201, org, jaan.tif
+1202, orgo, martin.tif
+1203, orik, arnold-rudolf.tif
+1204, orle, jaan.tif
+1205, ormesson, karl-voldemar.tif
+1206, orumets, märt-villem-hendrik.tif
+1207, oskar, eduard.tif
+2165, õsso, leonhard.tif
+1208, ostrat, johann.tif
+1209, ostrat, johannes.tif
+1210, ostrov, mihkel.tif
+1211, ots, august.tif
+1212, ots, jüri.tif
+1213, otsa, tavid.tif
+1214, otsing, arnold.tif
+1215, otsing, osvald.tif
+1216, ottenson, august.tif
+1217, ottep, johan.tif
+1218, otti, peeter.tif
+2166, õunap, paul.tif
+2167, õunapuu, anton.tif
+2168, õunapuu, karl.tif
+1219, paabusk, jakob.tif
+1220, paal, johan-voldemar.tif
+1221, paap, jaan.tif
+1222, pääsuke, jaan.tif
+1223, paavilainen, mikko teodor.tif
+1224, paesüld, herman.tif
+1225, paff, robert-michail-johann.tif
+1226, pagar, august.tif
+1227, pagar, johannes.tif
+1228, pahkla, aleksander-eduard.tif
+1229, påhlsson, paul emil.tif
+1230, pahv, eduard-alexander.tif
+1231, paia, august.tif
+1232, päid, august.tif
+1233, painlevé, paul.tif
+1234, pajos, evald-leopold.tif
+1235, pajula, august.tif
+1236, pajur, aleksander.tif
+1237, pajusaar, kristjan.tif
+1238, pajusoo, oskar.tif
+1239, pajuste, andrei.tif
+1240, pakk, august.tif
+1241, pakkas, osvald.tif
+1242, paldrok, aleksander.tif
+1243, palginõmm, albrecht.tif
+1244, pall, aleksander.tif
+1245, päll, johannes.tif
+1246, pallandi, hendrik.tif
+1247, pallon, leonhard-hermann.tif
+1248, palm, aleksander.tif
+1249, palm, priidik.tif
+1250, palm, richard-theodor.tif
+1251, palmet, aleksander.tif
+1252, palmiste, peeter.tif
+1253, palmu, eino armas.tif
+1254, paloheimo, karl alfred.tif
+1255, pals, johannes.tif
+1256, paltson, aleksander-georg.tif
+1257, palu, oskar.tif
+1258, panksepp, rudolf.tif
+1259, parel, enn.tif
+1260, pärg, kotlep.tif
+1261, pärg, rein.tif
+1262, parkja, jaan.tif
+1263, parktal, joosep.tif
+1264, pärn, ado.tif
+1265, pärn, jaan.tif
+1266, pärn, juhan.tif
+1267, pärn, magnus-evald.tif
+1268, pärnapuu, heinrich-leopold-voldemar.tif
+1273, pärnasalu, august.tif
+1269, pärnits, johan.tif
+1270, parras, karl.tif
+1271, parrol, mart.tif
+1272, pärtels, aleksander.tif
+1274, parts, aleksander.tif
+1275, parts, gustav.tif
+1276, parts, karl.tif
+1277, parval, alfred-karl-johann.tif
+1278, parvet, oskar.tif
+1279, parving, karl.tif
+1280, päsna, jaan.tif
+1281, pass, teodor.tif
+1282, pastak, gustav-aleksander.tif
+1283, päts, konstantin.tif
+1284, päts, peeter.tif
+1285, päts, voldemar.tif
+1286, pattak, joann.tif
+1287, paulsen, karl-august-ferdinand.tif
+1288, paulus, karl-aleksander.tif
+1289, paurman, eduard.tif
+1290, pavel, karl.tif
+1305, pechter, karl.tif
+1291, pedaja, jaan.tif
+1292, pedak, ants.tif
+1293, pedak, tõnis.tif
+1294, pedak, valter.tif
+1295, pedius, aleksander.tif
+1296, pedosk, friedrich.tif
+1297, pedosk, oskar.tif
+1298, peebus, eerik.tif
+1299, peedimaa, mihail.tif
+1300, peelman, martin.tif
+1301, peerna, paul.tif
+1302, peet, august.tif
+1303, peet, johan.tif
+1304, pehka, johan.tif
+1306, peistik, johannes.tif
+1307, pekkanen, emil.tif
+1308, pelanen, mikko.tif
+1309, pelberg, joann.tif
+1310, pencis, kārlis eduards.tif
+1311, pendis, johan.tif
+1312, peniķis, mārtiņš.tif
+1313, pennar, johannes.tif
+1314, pensa, johannes.tif
+1315, pent, august.tif
+1316, pent, jaan.tif
+1317, pent, mihkel.tif
+1318, penter, jüri.tif
+1319, pentre, paul-harry.tif
+1320, penu, aleksander.tif
+1321, pere, mihhail.tif
+1322, peretti de la rocca, comte emmanuel de.tif
+1323, perk, johannes.tif
+1324, perli, harald.tif
+1325, perna, arthur.tif
+1326, pesonen, lauri immanuel.tif
+1327, pesur, albert.tif
+1328, pétain, henry philippe benoni omer joseph.tif
+1329, peterhoff, romeo-paul-eduard.tif
+1330, peters, albert.tif
+1331, peters, peeter.tif
+1332, peterson, nikolai.tif
+1333, peterson, tõnis-voldemar.tif
+1334, pētersons, arvīds.tif
+1335, philips, edgar-valentin.tif
+1336, pihelgas, armand-friedrich.tif
+1337, pihkala, martti aleksander.tif
+1338, pihlak, aleksander.tif
+1339, pihlak, alfred.tif
+1340, pihlak, eduard-ferdinand.tif
+1341, piho, rudolf.tif
+1342, piibeleht, richard.tif
+1343, piilmann, mihkel.tif
+1344, piip, ants.tif
+1345, piip, nikolai.tif
+1346, piir, johan.tif
+1347, piir, rudolf.tif
+1348, pikat, aleksander.tif
+1349, pikberg, jüri.tif
+1350, pilden, heinrich.tif
+1351, pilli, voldemar.tif
+1352, piłsudski, józef klemens.tif
+1353, pilve, anton.tif
+1354, pinding, siegfried-theodor-leopold.tif
+1355, pinka, friedrich-karl.tif
+1356, pinka, herbert-karl.tif
+1357, pinka, karl-julius.tif
+1358, piperal, mihkel.tif
+1359, piskor, tadeuz ludwik.tif
+1360, pistmann, johannes-august.tif
+1361, pitka, august-andreas.tif
+1362, pitka, johan.tif
+1363, plado, peeter.tif
+1364, plaks, johannes.tif
+1365, plakso, bernhard.tif
+1366, plink, karl.tif
+1367, ploom, jakob.tif
+1368, pobol, august.tif
+1421, põdder, ernst-johannes.tif
+1422, põder, alfred-alexander.tif
+1423, põder, voldemar.tif
+1369, podrätsik, karl.tif
+1424, põhako, kristjan.tif
+1370, pohjala, kyllikki.tif
+1371, poincaré, raymond.tif
+1372, poka, august.tif
+1373, pokkatz, august.tif
+1425, põldoja, villem.tif
+1426, põlendik, nikolai.tif
+1374, pollisinski, oskar.tif
+1427, põllu, evert-valentin.tif
+1375, polluks, jakob.tif
+1428, põlme, anton.tif
+1376, pommer, jakob.tif
+1377, ponsi, arvid.tif
+1378, pontak, alfred.tif
+1379, pontus, otto.tif
+1380, poolak, georgi.tif
+1381, poolmann, johannes.tif
+1382, poopuu, johannes.tif
+1383, porgand, anton.tif
+1384, pori, anton.tif
+1385, porre, paul.tif
+1386, poska, jaan.tif
+1387, potter, richard.tif
+1388, praks, paul.tif
+1389, prantsuse tundmatu sõdur.tif
+1390, praosk, jaan.tif
+1391, prees, aarne.tif
+1392, prei, jakob.tif
+1393, priedītis, kārlis.tif
+1394, priggo, paul-johannes.tif
+1395, priima, oskar-johannes.tif
+1396, priks, paul.tif
+1397, printsmann, jüri.tif
+1398, priske, jüri.tif
+1399, procopé, johan hjalmar fredrik.tif
+1400, pruul, kaarel.tif
+1401, pruul, karl-robert.tif
+1402, pruun, joosep.tif
+1403, przeździecki, stefan józef leon.tif
+1404, puidak, heinrich.tif
+1405, pukse, anton.tif
+1406, puksov, richard.tif
+1407, pukspuu, johannes.tif
+1408, pulk, aleksander-voldemar.tif
+1409, pung, karl.tif
+1410, purga, juhan.tif
+1411, puskar, johann.tif
+1412, puskar, viktor-hugo.tif
+1413, püss, alexander-rudolf.tif
+1414, püss, anton-richard.tif
+1415, puss, rudolf.tif
+1416, pusta, kaarel-robert.tif
+1417, pütt, jaan.tif
+1418, puusepp, oskar-johannes.tif
+1419, puusild, jaan.tif
+1420, puustus, eduard-johannes.tif
+1429, quarton, harold barlow.tif
+1430, raadik, jaagup.tif
+1431, raag, arthur-emil.tif
+1432, räägel, anton.tif
+1433, raam, heinrich.tif
+1434, raamot, jaan.tif
+1435, radziņš, pēteris voldemārs.tif
+1436, rae, jako.tif
+1437, rahe, aleksander.tif
+1438, rähni, ants.tif
+1439, rähni, ernst-voldemar.tif
+1440, rahola, eero akseli.tif
+1441, rahumaa, mart.tif
+1442, raidna, herbert-voldemar.tif
+1443, raik, anton.tif
+1444, rajala, gustav.tif
+1445, rajande, johann-albert.tif
+1446, rajatamm, karl.tif
+1447, rako, jaan.tif
+1448, ramats, kārlis voldemārs.tif
+1449, rammo, bruno.tif
+1450, rand, karl.tif
+1451, randalu, adam.tif
+1452, randes, arand.tif
+1453, randla, aleksander.tif
+1454, randla, jüri.tif
+1455, randlepp, juhan.tif
+1456, randmaa, johannes.tif
+1457, randmäe, eduard.tif
+1458, randmets, voldemar.tif
+1459, ranjitsinhji, vibhaji.tif
+1460, rannastu, eerik.tif
+1461, rannik, teodor.tif
+1462, rannus, johannes.tif
+1463, rass, jakob.tif
+1464, rassi, himot.tif
+1465, rataj, maciej.tif
+1466, ratassepp, jüri-robert.tif
+1467, ratassepp, leo-aleksander.tif
+1468, ratiste, august.tif
+1469, ratnieks, edgars.tif
+1470, rätsnik, oskar.tif
+1471, raud, hugo-gottfried.tif
+1472, raud, johannes-aleksander.tif
+1473, raudjas, mihkel.tif
+1474, raudkivi, jaan.tif
+1475, raudkivi, villem.tif
+1476, raudmäe, johannes.tif
+1477, raudne, osvald.tif
+1478, raudsepp, hans.tif
+1480, raudsepp, jaan, tõnise p.tif
+1479, raudsepp, jaan, jaani p.tif
+1481, raudsepp, peeter.tif
+1482, raudsepp, rudolf.tif
+1483, raudsoo, august.tif
+1484, raudvere, oskar-aleksander.tif
+1485, raun, johannes-julius.tif
+1486, raun, otto-friedrich.tif
+1487, raus, paul-vilhelm.tif
+1488, rautanen, lauri kustaa waldemar.tif
+1489, rautsma, juhan.tif
+1490, razumov, georgi.tif
+1491, rebane, august.tif
+1492, rebane, hans.tif
+1493, rebane, richard.tif
+1494, rebase, daniel.tif
+1495, rebast, arnold-johannes.tif
+1496, rebina, hermann.tif
+1497, reder, georg-august.tif
+1498, reeben, august.tif
+1499, reek, nikolai.tif
+1500, rehe, arthur.tif
+1501, rehe, friedrich.tif
+1502, rei, august.tif
+1503, rei, elmar.tif
+1504, reidak, otto.tif
+1505, reijonen, emil erkki.tif
+1506, reimann, gustav-oskar.tif
+1507, reimann, rudolf-johannes.tif
+1508, reimets, eduard-julius.tif
+1509, reinap, kristjan.tif
+1510, reinart, martin.tif
+1511, reinartz, valdemar-friedrich.tif
+1512, reinberg, hugo.tif
+1513, reinberg, richard-heinrich.tif
+1514, reinvaldt, edvin-leopold-rudolf.tif
+1515, reinvaldt, ivar-gottfried-constantin.tif
+1516, reisberg, arthur-eduard.tif
+1517, reisma, hendrik.tif
+1518, reismann, eduard-martin.tif
+1519, reitel, konstantin-aleksander.tif
+1520, rekk, karl.tif
+1521, rekola, eero rauno arvi.tif
+1522, relander, lauri kristian.tif
+1523, remma, mihkel.tif
+1524, remmel, johannes.tif
+1525, rennit, nikolai.tif
+1526, rennu, victor.tif
+1527, renter, julius-august.tif
+1528, repnau, gustav-rudolf.tif
+1529, reponen, sulo helmuth kalervo.tif
+1530, ressar, edgar-osvald.tif
+1531, reynald, georges.tif
+1532, riben, carl fredrik wilhelm.tif
+1533, riberg, hans.tif
+1534, rieberg, voldemar-viktor.tif
+1535, rihtniemi, elja.tif
+1536, riidolin, hendrik.tif
+1537, riikonen, yrjö armas.tif
+1538, riis, jaan, andruse p.tif
+1539, riis, jaan, jaani p.tif
+1540, riis, jaan, magnuse p.tif
+1541, riisenberg, jaan.tif
+1542, riit, hugo.tif
+1543, riive, volli.tif
+1544, riives, rudolf.tif
+1545, rikma, johannes.tif
+1546, rink, jaan.tif
+1547, riomar, friedrich.tif
+1548, rist, august.tif
+1549, ristoja, jaan.tif
+1550, ristoja, karl.tif
+1551, ritavuori, heikki.tif
+1552, roden, johannes.tif
+1553, roger, paul-nikolai.tif
+1554, rohi, jaan.tif
+1597, rõikla, johannes.tif
+1555, rokk, rudolf-georg.tif
+1556, roo, aleksander.tif
+1557, roomere, arnold.tif
+1558, roos, christoph.tif
+1559, roos, jüri.tif
+1561, roosaar, ants.tif
+1562, roosi, mihkel.tif
+1563, roosileht, jaan.tif
+1564, roosileht, martin.tif
+1565, roosipuu, rudolf-august.tif
+1566, roosmaa, karel.tif
+1567, roosmäe, august.tif
+1568, roosmann, georg-eduard.tif
+1560, roossaar, aleksander-osvald.tif
+1569, roosson, jaak.tif
+1570, roostalu, august.tif
+1571, rootsi, johannes.tif
+1572, rosalk, aleksander.tif
+1573, rosblom, edvard nikolai.tif
+1574, rose, august-voldemar.tif
+1575, rosenberg, karl.tif
+1576, rossländer, herman.tif
+1577, rotberg, tõnis.tif
+1598, rõuk, hans.tif
+1599, rõuk, teodor.tif
+1578, rozenšteins, hugo pēteris.tif
+1579, rozwadowski, tadeusz.tif
+1580, rubis, johannes.tif
+1581, rudissaar, samuel.tif
+1582, ruiso, jaan.tif
+1583, rünk, rudolf-johannes.tif
+1584, rusi, johannes.tif
+1585, rusi, voldemar-heinrich.tif
+1586, ruškevics, jēkabs rūdolfs.tif
+1587, ruus, juhan.tif
+1588, ruus, peeter.tif
+1589, ruusmaa, august.tif
+1590, ruusmann, peet.tif
+1591, rüütel, alfred.tif
+1592, ruutu, yrjö oskar.tif
+1593, ryan, edward william.tif
+1594, rybak, józef artur.tif
+1595, rydz-śmigły, edward.tif
+1596, rytkönen, ilmari elis.tif
+1600, saal, anton.tif
+1601, saal, elmar-gerhard.tif
+1602, saal, johannes.tif
+1603, saaliste, jüri.tif
+1604, saar, alfred.tif
+1605, saar, august, ferdinandi p.tif
+1606, saar, august, mihkli p.tif
+1607, saar, eduard, hansu p.tif
+1608, saar, eduard, jaani p.tif
+1609, saar, ernst.tif
+1610, saar, johannes.tif
+1611, saar, julius.tif
+1612, saaremaa, johannes.tif
+1613, saarepera, tõnis.tif
+1614, saarepere, johannes.tif
+1615, saarepere, voldemar-heinrich.tif
+1616, saareste, ernst-julius.tif
+1617, saario, hugo.tif
+1618, saarnak, andrei.tif
+1619, saarnok, leo.tif
+1620, saarup, august.tif
+1621, sabbe, rudolf.tif
+1622, sabolotny, reinhold.tif
+1623, sae, august.tif
+1624, saemets, harry-reinhold.tif
+1625, sahlström, aleksander.tif
+1626, sainio, johan emil.tif
+1627, säkk, eduard.tif
+1628, saks, jüri.tif
+1629, saks, karl.tif
+1630, salla, richard-alexander.tif
+1631, salminen, aarne antero johannes.tif
+1632, salu, jüri.tif
+1633, salumets, jüri.tif
+1634, salza, hermann-alexander-eduard von.tif
+1635, samajev, herman.tif
+1636, samma, johannes.tif
+1637, sammalisto, lauri emil.tif
+1638, sammel, juhan.tif
+1639, sampka, alfred.tif
+1640, samuelsen, jens emanuel.tif
+1641, sander, eduard.tif
+1642, sanders, miķelis.tif
+1643, sangernebo, elmar.tif
+1644, santpank, johannes.tif
+1645, saral, karl.tif
+1646, sarapuu, august.tif
+1647, sarapuu, reinhold.tif
+1648, saretok, andres.tif
+1649, särgava, otto.tif
+1650, sarmiste, henn.tif
+1651, sarmo, voldemar-johann.tif
+1652, sarnet, august.tif
+1653, sarnits, edgar-alexander.tif
+1654, sarv, jaan.tif
+1655, sarva, väinö gunnar.tif
+1656, saueselg, artur-aleksander.tif
+1657, sauga, andres.tif
+1658, saulep, eduard.tif
+1659, savi, johannes.tif
+1660, saviauk, aleksander.tif
+1661, saviauk, johannes.tif
+1662, savvi, vitali.tif
+1663, schanzer, carlo.tif
+1664, scheler, jaan.tif
+1665, schilling, gustav-otto.tif
+1666, schmidt, johan.tif
+1667, schönberg, august.tif
+1668, schvartz, august-voldemar.tif
+1669, schvede, jüri.tif
+1670, schvindt, ludvig august.tif
+1671, seeberg, august-karl.tif
+1672, seer, johannes.tif
+1673, seim, paul.tif
+1674, seiman, aleksander.tif
+1675, seitam, jüri.tif
+1676, seiton, voldemar.tif
+1677, selgvee, leopold-eduard.tif
+1678, seljamaa, julius-friedrich.tif
+1679, selter, aleksander-arthur.tif
+1680, selter, priidik.tif
+1681, selvet, aleksander-oskar.tif
+1682, sempelson, juhan.tif
+1683, sengbusch, johannes.tif
+1684, sepik, edmund-friedrich-johannes.tif
+1685, sepling, boris-aleksander.tif
+1686, sepp, aleksander-paul.tif
+1687, sepp, artur.tif
+1688, sepp, heinrich.tif
+1689, sepp, johannes.tif
+1690, sepp, johannes.tif
+1691, sepp, jüri.tif
+1692, sepp, martin-johannes.tif
+1693, sepp, riidu.tif
+1694, sepre, konstantin.tif
+1695, serka, paul-eduard.tif
+1696, seskis, jānis.tif
+1697, setälä, emil nestor.tif
+1698, sforza, carlo.tif
+1699, sieger, georg-alexander-friedrich.tif
+1700, sihver, edmund.tif
+1701, sihvre, elmar.tif
+1702, siider, august.tif
+1703, siig, anton.tif
+1704, siilak, paul.tif
+1705, siipan, hugo.tif
+1706, sikorski, władysław eugeniusz.tif
+1707, silbermann, hans.tif
+1708, silbermann, voldemar.tif
+1709, sild, jaan.tif
+1710, sild, karla-johannes.tif
+1711, sildam, joosep.tif
+1712, sildam, roman.tif
+1713, siliksaar, jaan.tif
+1714, sillajõe, august.tif
+1715, sillaste, eduard.tif
+1716, silm, johannes.tif
+1717, silver, mihkel.tif
+1718, simmo, anton.tif
+1719, simmo, gustav.tif
+1720, simola, yrjö viktor.tif
+1721, simon, aleksander.tif
+1722, simon, martin.tif
+1723, simonsson, anton.tif
+1724, simpson, james young.tif
+1725, simson, arthur-friedrich.tif
+1726, sing, johan.tif
+1727, sinivee, enno.tif
+1728, sinka, arnold.tif
+1729, sipelgas, jaan.tif
+1730, sirk, arthur-johannes.tif
+1731, sirk, juhan.tif
+1732, sirks, augusts leopolds.tif
+1733, sirola, bruno jalmar ferdinand.tif
+1734, sirtse, eduard.tif
+1735, sisask, johann.tif
+1736, sisask, peeter.tif
+1737, skaistlauks, voldemārs johans.tif
+1738, sklave, karl-friedrich.tif
+1739, skov, sigrid.tif
+1740, skrzyński, aleksander józef.tif
+1741, skujenieks, teodors.tif
+1742, snellman, aarne.tif
+1805, sõber, arnold.tif
+1806, sõber, hans.tif
+1807, sõber, karl.tif
+1750, söde, karl.tif
+1743, söderholm, johannes.tif
+1744, sokolov, vladimir.tif
+1745, soltna, reinhold-frants-stefan.tif
+1746, sommer, august.tif
+1747, soo, johannes.tif
+1748, soo, karl-mihkel.tif
+1749, sooaru, august-eduard-robert.tif
+1751, soodla, johannes.tif
+1752, soomann, karla-julius.tif
+1753, soonpää, eduard.tif
+1754, soonpää, karl-johannes.tif
+1755, sööt, johannes-robert.tif
+1756, soots, jaan.tif
+1757, soovere, august.tif
+1758, soovik, edgar-jaan.tif
+1759, soovik, kristjan.tif
+1760, sork, jaan.tif
+1761, sosnkowski, kazimierz.tif
+1808, sõster, aleksander-eduard.tif
+1809, sõster, mart.tif
+1762, stahl, johann.tif
+1763, ståhlberg, kaarlo juho.tif
+1764, stamm, anton.tif
+1765, stamm, karl.tif
+1766, stamm, leonhard-johann-gottfried.tif
+1767, stankiewicz, jan.tif
+1768, steele, gordon charles.tif
+1769, stein, august-eduard.tif
+1770, steinberg, august.tif
+1771, steinmann, nikolai.tif
+1772, stern, alfred-johannes.tif
+1773, stern, karl-johannes.tif
+1774, sternbeck, otto.tif
+1775, stockeby, hermann-hans-joachim.tif
+1776, strandman, otto-august.tif
+1777, stranieri, augusto.tif
+1778, stulginskis, aleksandras.tif
+1779, sturm, hugo.tif
+1780, subbi, johannes.tif
+1781, suimets, karl-august.tif
+1782, suits, nikolai.tif
+1783, sulg, edgar.tif
+1784, sulg, oskar.tif
+1785, summataavet, august-voldemar.tif
+1786, sups, rudolf.tif
+1787, susi, arnold.tif
+1788, susi, edgar-theodor.tif
+1789, sütt, johan.tif
+1790, sütt, richard.tif
+1791, suur, arnold.tif
+1792, suur, jaan.tif
+1793, suuresaar, edgar-valentin.tif
+1794, suuressaar, joosep.tif
+1795, suurevälja, georgi.tif
+1796, suurkivi, juhan.tif
+1797, suurmann, mihkel-adolf.tif
+1798, suursepp, eduard.tif
+1799, suusik, johannes-andreas.tif
+1800, svinhufvud, gustaf alku.tif
+1801, swatridge, charles john.tif
+1802, swett, trevor washington hitchcock.tif
+1803, szeptycki, stanisław maria jan teofil.tif
+1804, szumlakowski, marian.tif
+1810, taalder, richard.tif
+1811, taarma, heinrich-aleksander.tif
+1812, tabur, jakob.tif
+1813, taeker, julius-alexander.tif
+1814, tähiste, juhan.tif
+1815, tähnas, tõnis.tif
+1816, täht, rein.tif
+1817, taimre, julius-johannes.tif
+1818, takel, aleksander.tif
+1819, takel, jüri.tif
+1820, taklaja, jaan.tif
+1822, talikowski, michał.tif
+1823, taliste, valter-andreas-georg.tif
+1824, tallents, stephen george.tif
+1825, tallo, karl.tif
+1826, talman, jaan.tif
+1827, talpsepp, aleksander-voldemar.tif
+1821, talšin, leo.tif
+1828, talts, aleksander.tif
+1829, talussaar, ado.tif
+1830, talvis, johannes-eduard.tif
+1831, tambek, johannes.tif
+1832, tamberg, villem.tif
+1833, tamlak, villem.tif
+1834, tamm, aleksander.tif
+1835, tamm, eduard.tif
+1836, tamm, johannes.tif
+1837, tamm, johannes-eduard.tif
+1838, tamm, johannes-voldemar.tif
+1839, tamm, joosep.tif
+1840, tamm, julius.tif
+1841, tamm, karl-johannes.tif
+1842, tamm, mart.tif
+1843, tamm, mihkel, jakobi p.tif
+1844, tamm, mihkel, jüri p.tif
+1845, tamm, nikolai.tif
+1846, tamm, villem.tif
+1847, tammann, august.tif
+1848, tamme, anton.tif
+1849, tamme, eugen.tif
+1850, tamme, jaan.tif
+1851, tammekand, kaarel-ruudolf.tif
+1852, tammekand, karl-voldemar.tif
+1853, tammekänd, rudolf.tif
+1854, tammeleht, jüri.tif
+1855, tamminen, johannes arttur.tif
+1856, tammist, hans.tif
+1857, tammiste, johan.tif
+1858, tammiste, robert-otto-paul.tif
+1859, tammpere, jaak.tif
+1860, tammpere, paul-osvald.tif
+1861, tampu, martin.tif
+1862, tamsalu, august.tif
+1863, tamson, aleksander.tif
+1864, tamtik, jaan.tif
+1865, tänav, ernst-alfred.tif
+1866, tanilas, paul.tif
+1867, tanner, felix-johann.tif
+1868, taras, johannes.tif
+1869, tarik, rudolf.tif
+1870, tartov, hans.tif
+1871, tasuja, jaanus.tif
+1872, tauts, hans.tif
+1873, teder, aleksander.tif
+1874, teder, juhan.tif
+1875, teder, nikolai.tif
+1876, tedre, hermann-rudolf.tif
+1877, teearu, osvald-julius.tif
+1878, teets, valter-friedrich.tif
+1879, teiman, ralf-rene.tif
+1880, tenneberg, martin.tif
+1881, tennmann, august-johan-christoph.tif
+1882, tenno, artur.tif
+1883, teose, august-johannes.tif
+1884, tepfers, hugo herberts.tif
+1885, teppan, karl.tif
+1886, teras, voldemar.tif
+1887, terno, albert.tif
+1888, terno, rudolf.tif
+1889, terras, martin.tif
+1890, teslon, edgar-paul-ernst.tif
+1891, tetlov, arnold-engelbert.tif
+1892, thesiger, bertram sackville.tif
+1893, thomas, albert.tif
+1894, thugutt, stanisław august.tif
+1895, tief, otto.tif
+1896, tiido, ernst-august.tif
+1897, tiido, maksimilian.tif
+1898, tiirmann, theodor.tif
+1899, tiisler, kornelius.tif
+1900, tiit, august-jaan-martin.tif
+1901, tiitso, karl.tif
+1902, tiitus, mihkel.tif
+1903, tikkar, uku.tif
+1904, tilgre, aleksander-robert.tif
+1905, tilk, juhan.tif
+1906, tilk, mihkel.tif
+1907, till, hans.tif
+1908, till, oskar.tif
+1909, tilling, hartvig.tif
+1910, timpson, hans.tif
+1911, tisler, august.tif
+1912, tittoni, tommaso.tif
+1913, tohver, mihkel.tif
+1914, toim, johannes.tif
+1915, toimeta, eduard-julius.tif
+1980, tõkke, johannes.tif
+1981, tõldsepp, rudolf-aleksander.tif
+1982, tõllasepp, jaan.tif
+1983, tõllassaar, jaan.tif
+1916, tolmoff, oskar.tif
+1917, tomander, august.tif
+1918, tomasberg, august.tif
+1919, tomback, rein.tif
+1920, tomberg, rein.tif
+1921, tomingas, august-reinhold.tif
+1922, tomingas, johannes.tif
+1923, tomiste, aleksander.tif
+1924, tomps, august.tif
+1925, tomson, arthur.tif
+1926, tomson, hans.tif
+1927, tomson, johannes.tif
+1984, tõnisson, aleksander.tif
+1986, tõnisson, jaan, jaani p.tif
+1985, tõnisson, jaan, johani p.tif
+1928, tõnisson, jüri, jüri p.tif
+1929, tõnisson, jüri, maria p.tif
+1987, tõns, jüri.tif
+1988, tõnso, ferdinand-voldemar.tif
+1989, tõnson, hans.tif
+1990, tõnson, leopold-herrmann.tif
+1930, toom, peeter-eduard.tif
+1931, toomara, oskar-eduard.tif
+1932, toomingas, karl-heinrich.tif
+1933, toomsar, juhan.tif
+1934, toost, rein.tif
+1935, tootsi, albert-aleksander.tif
+1936, torma, august-johannes.tif
+1937, tornberg, henrik mikael.tif
+1991, tõruke, nikolai-aleksander.tif
+1992, tõruvere, voldemar.tif
+1938, traksmaa, august.tif
+1939, trąmpczyński, wojciech stefan.tif
+1940, trankmann, konstantin-nikolai.tif
+1941, traut, rudolf-aleksander.tif
+1942, treimuth, rodion.tif
+1943, treu, ants.tif
+1944, treufeldt, otto.tif
+1945, treumann, johann-voldemar.tif
+1946, treumuth, jaan.tif
+1947, triik, paul-villiam.tif
+1948, troitski, konstantin.tif
+1949, trossi, verner-ernst-harald.tif
+1950, troupp, anders.tif
+1951, trubok, julius.tif
+1952, trubok, rudolf-august.tif
+1953, trumm, aleksei.tif
+1954, trusa, aleksander.tif
+1955, truu, alfred-georg.tif
+1956, tschernov, gavril.tif
+1957, tuisk, august.tif
+1958, tuisk, mart.tif
+1959, tuisk, mihkel.tif
+1960, tuisk, voldemar-johannes.tif
+1961, tuit, jaan.tif
+1962, tulenheimo, antti agathon.tif
+1963, tulff, karl-johannes.tif
+1964, tulmin, karl.tif
+1965, tulnola, hengo.tif
+1966, tulp, mats.tif
+1967, tupits, aleksander.tif
+1968, tupits, heinrich.tif
+1969, turi, nikolai.tif
+1970, turjakas, aleksander.tif
+1971, türk, jakob.tif
+1972, türk, johannes.tif
+1973, turmann, august-rudolf.tif
+1974, tuttelberg, leonid-carl-gustav.tif
+1975, tuuksam, hans.tif
+1976, tuurmaa, arno-georg.tif
+1977, tuvi, jaan.tif
+1978, tuvi, johann.tif
+1979, tyrrell, william george.tif
+1993, ubakivi, roman.tif
+1994, uder, august-richard.tif
+1995, udikas, oskar-friedrich.tif
+1996, uegeinam, voldemar.tif
+1997, uhke, karl-rudolf.tif
+1998, uibo, aleksander.tif
+1999, uibo, rudolf.tif
+2000, uibopuu, sergei.tif
+2001, ulm, voldemar.tif
+2002, ulmanis, kārlis augusts.tif
+2003, umb, andrei.tif
+2004, undén, ulf torsten.tif
+2005, unger, jakob.tif
+2006, ungvere, jüri.tif
+2007, univer, peeter.tif
+2008, unt, jaan.tif
+2009, unt, johan.tif
+2010, unt, mart.tif
+2011, untolahti, herman.tif
+2012, uritam, oskar.tif
+2013, uritam, richard.tif
+2014, urke, jakob.tif
+2015, urm, eduard.tif
+2016, usin, jaan.tif
+2017, ustav, august.tif
+2018, utuste, kustas.tif
+2019, uue, aleksander.tif
+2020, uuk, aleksander.tif
+2021, uuk, rudolf.tif
+2022, uulimaa, mihail.tif
+2023, uus, arthur.tif
+2024, uuskam, johannes.tif
+2027, uusõue, august-bartholomeus.tif
+2025, uussalu, hugo-heinrich.tif
+2026, uustal, august.tif
+2028, vaabel, oskar.tif
+2029, vaadre, ernst-johannes.tif
+2030, vaarmann, mihkel.tif
+2031, väärtnõu, andrei.tif
+2032, vaaver, karl.tif
+2033, väeden, villem.tif
+2034, vaga, kustav.tif
+2035, vaharo, rudolf.tif
+2036, vahem, johannes.tif
+2037, vaher, georg.tif
+2038, vaher, jaan.tif
+2039, vähi, mihkel.tif
+2040, vahi, roman-heinrich.tif
+2041, vaht, hugo.tif
+2042, vahtramäe, hendrik.tif
+2043, vahtre, voldemar.tif
+2044, vahul, herman.tif
+2045, vaidla, richard-oskar.tif
+2046, vaigu, juhan.tif
+2047, vaiksaar, eino.tif
+2048, väinaste, kustav.tif
+2049, vaino, paul-eduard.tif
+2050, vainumets, aleksander.tif
+2051, valdmann, arnold-friedrich.tif
+2052, valdmann, hans.tif
+2053, valdmann, osvald.tif
+2054, valdur, arvo.tif
+2055, valdur, voldemar.tif
+2056, valge, aleksander.tif
+2057, valge, alfred-aleksander.tif
+2058, valge, gustav.tif
+2059, valge, nikolai.tif
+2060, välja, madis.tif
+2062, valler, mihkel.tif
+2063, välme, henn.tif
+2064, valter, benjamin.tif
+2065, valter, reinhold-alexander.tif
+2066, vanaveski, hans.tif
+2067, vao, august-johannes.tif
+2068, vardja, johannes.tif
+2069, vare, jaan.tif
+2070, vares, elmar.tif
+2071, vares, johannes.tif
+2072, vares, julian.tif
+2073, vares, paul.tif
+2074, varik, karl.tif
+2075, varik, peeter-karl.tif
+2077, varner, anton-hans.tif
+2078, vasar, hans.tif
+2079, vasar, johan.tif
+2080, vask, august.tif
+2081, vaska, jakob-michael.tif
+2082, vasko, johannes-rudolph.tif
+2083, vassermann, teodor.tif
+2084, vassil, august-voldemar.tif
+2085, vassil, paul.tif
+2086, västrik, heinrich-aleksander.tif
+2087, veeberg, august.tif
+2088, veem, helmut-traugott.tif
+2089, veidermann, johannes.tif
+2090, veigel, karl.tif
+2091, veigelin, georg.tif
+2092, veijo, einari walter.tif
+2093, veinberg, elmar-johann.tif
+2094, veinpere, erich-christoph.tif
+2095, veldemann, jaan.tif
+2096, vellerind, johannes-august.tif
+2097, vende, jakob.tif
+2098, vendla, jaak.tif
+2099, vendla, tõnis.tif
+2100, vent, paul.tif
+2101, ventsel, august-eduard.tif
+2102, verliin, villem.tif
+2103, vertmann, karla.tif
+2104, vestel, georg-hugo.tif
+2105, vesterinen, emil.tif
+2106, videvik, jakob.tif
+2107, vidrik, jaan.tif
+2108, vienberg, rudolf.tif
+2109, vihmann, johannes.tif
+2110, viiburg, helmuth.tif
+2111, viidemaa, jakob.tif
+2112, viilip, artur.tif
+2113, viilmaa, hando.tif
+2114, viirmaa, richard-heinrich.tif
+2115, viitak, nikolai.tif
+2116, viljak, johannes.tif
+2117, villemi, karl-friedrich.tif
+2118, villemi, paul-aleksander.tif
+2119, villems, albert.tif
+2120, villup, august.tif
+2121, vilms, jüri.tif
+2122, vilta, karl-erich-sergius.tif
+2123, vimm, jakob.tif
+2124, vink, aleksander.tif
+2125, vinkler, johannes.tif
+2126, viralu, nicolai.tif
+2127, virgo, eduard-reinhold.tif
+2128, viru, august-osvald.tif
+2129, virula, tõnis.tif
+2130, visman, harry-alexander.tif
+2131, vittorio emanuele iii.tif
+2132, vodja, jaan.tif
+2133, vohlonen, oiva lahja.tif
+2134, vöhrmann, arnold-joosep.tif
+2135, voitka, august.tif
+2136, vokk, oskar.tif
+2137, vool, abel.tif
+2139, võrk, hans-roland.tif
+2138, vreemann, friedrich.tif
+2061, valler, joosep.tif
+2140, walne, william sydney james.tif
+2076, warma, aleksander.tif
+2141, wasilewski, leon.tif
+2142, weiss, constantin-alexander-clemens von.tif
+2143, wemyss, rosslyn erskine.tif
+2144, wetter-rosenthal, hellmuth-carl-ernst von.tif
+2145, wetzer, paul martin.tif
+2146, weygand, maxime louis.tif
+2147, williams, harold whitmore.tif
+2148, williams, thomas melling.tif
+2149, wilson, walter caradine.tif
+2150, wojciechowski, stanisław.tif
+2151, wrede af elimä, gustaf oskar axel.tif
+2152, yli-pohja, kaarlo.tif
+2153, ylitalo, antti isak.tif
+2154, yllö, andreas.tif
+2155, young, evan erastus.tif
+2156, yrjö-koskinen, aarno armas sakari.tif
+2157, zeltner, knud valdemar.tif
+2158, zemitāns, jorģis.tif
+2159, zidbäck, john elis.tif
+2160, ziehr, oskar-franz-reinhold.tif
+2161, zimmermann, georg.tif
+2162, zīverts, voldemārs oto.tif
+2163, zoege von manteuffel, maximilian-friedrich-werner.tif
+2164, zovo, karl.tif
