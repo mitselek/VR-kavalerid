@@ -33,11 +33,14 @@ console.log(token)
 const entu_hostname = 'entu.app/api'
 const entu_account = 'esmuuseum'
 
-const list_vrk = `https://${entu_hostname}/${entu_account}/entity?_type.string=vrkavaler&props=_id`
-const delete_vrk = `https://${entu_hostname}/${entu_account}/entity/`
-console.log(list_vrk)
+// const entity_type = 'vrkavaler'
+const entity_type = 'vrist'
 
-fetch(list_vrk, {
+const list_v = `https://${entu_hostname}/${entu_account}/entity?_type.string=${entity_type}&props=_id`
+const delete_v = `https://${entu_hostname}/${entu_account}/entity/`
+console.log(list_v)
+
+fetch(list_v, {
   method: 'GET',
   headers: {
     'Authorization': `Bearer ${token}`,
@@ -49,7 +52,7 @@ fetch(list_vrk, {
   // console.log(data.entities)
   data.entities.forEach(entity => {
     const id = entity._id
-    fetch(`${delete_vrk}${id}`, {
+    fetch(`${delete_v}${id}`, {
       method: 'DELETE',
       headers: {
         'Authorization': `Bearer ${token}`,
