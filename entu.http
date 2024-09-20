@@ -82,6 +82,13 @@ Content-Type: application/json; charset=utf-8
 
 ###
 # entity GET VRK id's
-GET {{hostname}}/{{account}}/entity?_type.string=vrkavaler&props=_id HTTP/1.1
+GET {{hostname}}/{{account}}/entity?_type.string=vrkavaler&props=_id&limit=10000 HTTP/1.1
 Accept-Encoding: deflate
 Authorization: Bearer {{esm_token}}
+
+###
+# DELETE entities
+DELETE {{hostname}}/{{account}}/entity?_type.string=vrkavaler
+Accept-Encoding: deflate
+Authorization: Bearer {{esm_token}}
+Content-Type: application/json; charset=utf-8
