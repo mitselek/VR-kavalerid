@@ -1690,8 +1690,8 @@
 2458, sepp, aleksander-paul.tif
 2459, sepp, artur.tif
 2460, sepp, heinrich.tif
-2461, sepp, johannes.tif
-2461, sepp, johannes.tif
+2461, sepp, johannes, jaeni p.tif
+2462, sepp, johannes, jakobi p.tif
 2463, sepp, jüri.tif
 2464, sepp, martin-johannes.tif
 2465, sepp, riidu.tif
