@@ -11,7 +11,7 @@ const result_csv_path = path.parse(__filename).dir + '/import_aumärgid_results.
 const result_stream = fs.createWriteStream(result_csv_path)
 // const aumärgid_csv_path = path.parse(__filename).dir + '/test.csv'
 const aumärgid_csv_path = path.parse(__filename).dir + '/VR Kavalerid puhtand - aumärgid.csv'
-const aumärgid_entu_type = {'type': '_type', 'string': 'vr_aum2rk', 'reference': '66b625807efc9ac06a437be3'}
+const aumärgid_entu_type = {'type': '_type', 'string': 'vr_aum2rk', 'reference': process.env.vr_aum2rk_type_eid}
 
 var counter = 0
 const full_trshold = 42

@@ -5,7 +5,7 @@ console.log(token)
 const entu_hostname = 'entu.app/api'
 const entu_account = 'esmuuseum'
 
-const list_vrk = `https://${entu_hostname}/${entu_account}/entity?_type.string=vrist&props=_id`
+const list_vrk = `https://${entu_hostname}/${entu_account}/entity?_type.string=vr_aumärk&props=_id`
 const delete_vrk = `https://${entu_hostname}/${entu_account}/entity/`
 console.log(list_vrk)
 

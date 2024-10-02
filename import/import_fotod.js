@@ -7,19 +7,18 @@ const path = require('path')
 const entu_hostname = 'entu.app/api'
 const entu_account = 'esmuuseum'
 
-const result_csv_path = path.parse(__filename).dir + '/import_kavalerid_results.csv'
+const result_csv_path = path.parse(__filename).dir + '/import_fotod_results.csv'
 const result_stream = fs.createWriteStream(result_csv_path)
-// 1. Read rows from 'import_kavalerid.csv'
-// const kavalerid_csv_path = path.parse(__filename).dir + '/VR Kavalerid puhtand - kavalerid.csv'
-const kavalerid_csv_path = path.parse(__filename).dir + '/test.csv'
+const fotod_csv_path = path.parse(__filename).dir + '/test.csv'
+// const fotod_csv_path = path.parse(__filename).dir + '/VR Kavalerid puhtand - aumärgid.csv'
 const kavalerid_entu_type = {'type': '_type', 'string': 'vr_kavaler', 'reference': process.env.vr_kavaler_type_eid}
 
 var counter = 0
-const full_trshold = 6
-const low_trshold = 3
+const full_trshold = 42
+const low_trshold = 36
 var paused = false
 
-const instream = fs.createReadStream(kavalerid_csv_path)
+const instream = fs.createReadStream(fotod_csv_path)
   .pipe(csv())
   .on('data', (csv_data) => {
     counter ++
@@ -29,6 +28,7 @@ const instream = fs.createReadStream(kavalerid_csv_path)
       paused = true
     }
     // 2. POST new entites and save result ID's
+    console.log(`Adding new entity for ${csv_data.vr_id}, kavaler: ${csv_data.Kavaler_eid}`)
     fetch(
       `https://${entu_hostname}/${entu_account}/entity`, {
         method: 'POST',
@@ -38,14 +38,14 @@ const instream = fs.createReadStream(kavalerid_csv_path)
         },
         body: JSON.stringify([
           kavalerid_entu_type,
-          {'type': 'vr_id', 'string': csv_data.vr_id},
-          {'type': 'name', 'string': csv_data.Nimi},
-          {'type': 'eesnimi', 'string': csv_data.Eesnimi},
-          {'type': 'perenimi', 'string': csv_data.Perenimi},
-          {'type': 'emaisa', 'string': csv_data.Emaisa},
-          {'type': 'synd', 'string': csv_data.Sünd},
-          {'type': 'amet', 'string': csv_data.Amet},
-          {'type': 'biograafia', 'string': csv_data.Biograafia},
+          {type: 'kavaler', reference: csv_data.Kavaler_eid},
+          {type: 'vr_nr', string: csv_data.VR_Nr},
+          {type: 'liik_ja_j2rk', string: csv_data.Liik_ja_järk},
+          {type: 'otsuse_kp', string: csv_data.Otsus_kp},
+          {type: 't2psustus', string: csv_data.Täpsustus},
+          {type: 'otsuse_tekst', string: csv_data.Otsus_tekst},
+          {type: 'vr_id', string: csv_data.vr_id},
+          {type: 'kavaler_vr_id', string: csv_data.Kavaler_id},
         ])
       }
     )
@@ -62,6 +62,7 @@ const instream = fs.createReadStream(kavalerid_csv_path)
       })
       .then(response => response.json())
       .then(json_data => {
+        // console.log(JSON.stringify(json_data, null, 2))
         counter--
         if (counter < low_trshold && paused) {
           // console.log('Resuming...')
