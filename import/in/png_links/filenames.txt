@@ -1,0 +1,2167 @@
+0004, aalbok, eduard.png
+0007, aaren, jakob.png
+0008, aarna, hans.png
+0009, aas, joosep.png
+0010, aas, rudolf.png
+0011, aasa, arseni.png
+0012, aasjõe, madis.png
+0013, aasma, juhan.png
+0014, aavasalu, andres.png
+0015, aaviste, voldemar-otto.png
+0016, abel, eduard-karl-adolf.png
+0017, abłamowicz, konstanty.png
+0018, abrams, bernhard-johannes.png
+0019, adachi, mineichirō.png
+0020, adamson, edgar.png
+0022, ader, rudolf.png
+0023, adissoo, villem.png
+0024, adler, alvin-amandus.png
+0025, aejmelaeus-äimä, carl bror emil.png
+0026, agar, augustus willington shelton.png
+0027, agger, georg-voldemar.png
+0028, ahas, august.png
+0031, ahman, eduard.png
+0034, ahtmann, georgi.png
+0039, aimla, rudolf.png
+0040, aindt, eduard-voldemar.png
+0041, ainison, peeter-nikolai.png
+0042, ainson, hans-karl.png
+0043, aire, eduards.png
+0045, aks, richard-johannes.png
+0046, ala, villu.png
+0047, alamäe, karl.png
+0050, alatare, rain.png
+0052, albats, hermanis.png
+0053, albert i.png
+0054, alekand, richard.png
+0056, alexander-sinclair, edwyn sinclair.png
+0057, alfthan, kristian axel.png
+0058, algus, august.png
+0059, aljes, peeter.png
+0060, alkio, santeri.png
+0061, allik, jaan.png
+0062, allikas, jaan.png
+0064, allikmäe, aleksander.png
+0068, alt, martin.png
+0069, altoa, aleksander.png
+0070, alujev, august.png
+0071, alupere, jaan.png
+0072, alvear, marcelo torcuato de.png
+0073, alver, eduard-hans-christian.png
+0074, ambus, johannes-aleksander.png
+0076, ananitš, mihhail.png
+0079, anderson, ernst.png
+0080, anderson, viktor.png
+0082, andreimann, daniel.png
+0084, andrekson, johan.png
+0085, andresmaa, bernhard-heinrich.png
+0086, andresson, aleksander.png
+0087, andresson, andres.png
+0089, angelus, oskar-georg-richard.png
+0090, animägi, nikolai.png
+0091, anni, anton.png
+0092, anni, johannes-alexander.png
+0093, annik, ferdinand-johannes.png
+0094, anniste, johannes.png
+0095, annuk, otto.png
+0096, ant, evald.png
+0097, ant, jakob.png
+0099, anttila, einari.png
+0100, aparnieks, artūrs osvalds.png
+0101, arak, viktor.png
+0103, archen, charles théophile.png
+0104, ardel, karl.png
+0107, arjak, johan.png
+0108, ärma, johannes.png
+0109, arol, aleksander.png
+0110, aron, aleksander.png
+0111, aron, august-eduard.png
+0113, arras, paul.png
+0114, artti, pontus kaarlo.png
+0116, asmus, peeter.png
+0118, aud, otto-mihail.png
+0119, auer, ilmari.png
+0120, augjärv, leonhard-theodor.png
+0121, aukštuolis, jonas.png
+0123, auniņš, jānis alfrēds.png
+0124, aus, johannes.png
+0125, avik, eduard-johannes.png
+0126, aviste, johannes.png
+0127, bach, eduard-adolf.png
+0130, bachstein, aleksis-roland.png
+0134, bajer, michał ignacy.png
+0135, balder, august.png
+0136, baldwin, stanley.png
+0137, balfour, arthur james.png
+0138, balin, aleksander.png
+0139, balodis, jānis.png
+0140, bangerskis, rūdolfs.png
+0141, bartels, ado.png
+0142, bartland, aleksander-ferdinand.png
+0144, bauer, heinrich-nikolai.png
+0145, bauer, mihkel.png
+0146, baum, georg.png
+0148, beatty, david richard.png
+0150, beckmann, valentin.png
+0151, beljakov, peeter.png
+0154, berg, ermes-friedrich von.png
+0156, berg, victor-alexander.png
+0160, bergmann, martin-friedrich.png
+0161, berķis, krišjānis.png
+0162, bernard, ernst-johannes.png
+0163, berthelot, philippe.png
+0164, bērtulsons, fricis.png
+0168, björksten, thure gustav alfred af.png
+0171, blomqvist, karl lauri.png
+0172, blumfeldt, karl.png
+0174, bojārs, kārlis.png
+0177, bonne, louis.png
+0180, borgelin, richard-gustav.png
+0182, borkman, paul-johannes.png
+0183, borkvell, julius-albert.png
+0184, borman, anton.png
+0185, borodin, nikolai.png
+0186, bõstrovski, ivan.png
+0189, brahmann, adolf.png
+0190, brakel, arthur-johann.png
+0192, brede, herbert-lorenz-georg.png
+0194, bremner, william hamilton.png
+0196, briand, aristide.png
+0197, bridgeman, william clive.png
+0199, briti tundmatu sõdur.png
+0204, brzozowski, rajmund tomasz.png
+0205, buck, arnold.png
+0208, busch, johannes-adolf-heinrich.png
+0209, busch, karl.png
+0210, busch, mathilde.png
+0211, bušs, kārlis augusts.png
+0213, buxhoeveden, peter-eugen-arthur.png
+0215, čakste, jānis.png
+0216, calonius, matti ernest gustaf.png
+0218, carr, edward hallett.png
+0221, cederberg, otto-elias.png
+0223, chamberlain, joseph austen.png
+0225, charwat, franciszek.png
+0226, christian x.png
+0227, christiansen, anna.png
+0228, churchill, winston leonard spencer.png
+0230, clemenceau, georges benjamin.png
+0233, contarini, salvatore.png
+0235, cowan, walter henry.png
+0236, cunliffe-lister, philip.png
+0238, dahlman, karl rafael.png
+0240, dampf, alfred-michael-harald.png
+0241, dampf, villiam-andreas.png
+0243, dannebergs, artūrs.png
+0245, dawley, ernest joseph.png
+0246, debeney, marie-eugène.png
+0247, delagarde, theodore.png
+0250, derjugin, anatoli.png
+0251, derrik, aleksander.png
+0252, diaz, armando vittorio.png
+0253, dobrzyński, wacław tadeusz.png
+0254, dobson, claude congreve.png
+0255, donald, david grahame.png
+0256, doumergue, gaston.png
+0257, dowbor-muśnicki, józef.png
+0259, drell, august-ulrich.png
+0260, drummond, james eric.png
+0261, drymmer, wiktor tomir.png
+0262, dunbar-nasmith, martin eric.png
+0263, duņēns, kārlis.png
+0264, dunkel, johannes.png
+0266, dutšinski, nikolai-ferdinand.png
+0267, eckstein, hugo-edgar.png
+0268, eenpõllu, gustav-eduard.png
+0273, ehrensvärd, carl august.png
+0275, eibak, johannes.png
+0277, eik, edgar-villiam.png
+0278, eimre, erich-johannes.png
+0279, einer, osvald-august.png
+0280, einpaul, aleksander.png
+0281, einsild, uudo alexandre.png
+0282, einstruk, eduard-romanus.png
+0283, eiso, vladislav-ernst-emanuel.png
+0284, ekbaum, august.png
+0289, ekström, martin eugén.png
+0290, elbrecht, alfred.png
+0292, eliste, jaan.png
+0293, ellamaa, osvald.png
+0294, ellandi, julius.png
+0295, eller, oskar.png
+0297, emar, august.png
+0298, emery, claude scudamore.png
+0299, enckell, carl johan alexis.png
+0301, ende, richard.png
+0302, endemann, jüri.png
+0303, engmaa, arved-johannes.png
+0305, enok, august.png
+0306, enula, august.png
+0309, erich, rafael waldemar.png
+0310, erik, paul.png
+0311, erik, voldemar.png
+0313, erikson, andrei.png
+0314, erikson, august.png
+0315, erkko, erik eero.png
+0317, erler, erich-johann-constantin.png
+0318, erm, hans.png
+0319, erm, konstantin-friedrich.png
+0321, erna, pavel.png
+0324, erschke, aleksander.png
+0326, ervin, aleksander.png
+0328, eskola, anto nestori.png
+0331, estam, juhan.png
+0333, evertson, arnold-robert.png
+0335, falk, karl.png
+0336, faltis, hermann.png
+0338, feldt, edmund.png
+0339, feofanov, georgi.png
+0340, feofanov, peeter.png
+0343, fischer, nikolai.png
+0344, fisher, herbert albert laurens.png
+0350, foch, ferdinand jean marie.png
+0351, foelsch, hellmuth-arthur-julius.png
+0352, folker, konstantin-kristjan-herbert.png
+0355, forselles, jenny mathilda af.png
+0357, fouquières, augustin pierre becq de.png
+0358, franklin-bouillon, henry.png
+0362, fremantle, sydney robert.png
+0363, frey, alexander.png
+0364, freyberg, christian-georg.png
+0365, friedrichson, evald.png
+0368, fuks, vladimir.png
+0369, gade, john allyne.png
+0370, gascoyne-cecil, edgar algernon robert.png
+0372, gasparri, pietro.png
+0374, gebhardt, benno-ferdinand-leo von.png
+0375, geldorf, peter viggo.png
+0376, gengelbach, valter-friedrich.png
+0377, gentalen, hendrik.png
+0378, george v.png
+0381, gerretz, paul.png
+0385, gloy, georg-eduard-joachim-adolph von.png
+0389, göös, karl hjalmar.png
+0393, gough, hubert de la poer.png
+0394, grabski, władysław dominik.png
+0396, grant, johannes.png
+0397, gregor, jaak.png
+0399, gregory, john duncan.png
+0400, grenz, valentin-martin.png
+0403, groome, john charles.png
+0404, gröön, eduard.png
+0405, gross, friedrich-bruno.png
+0406, grossberger, erich-nicolai.png
+0407, groundstroem, ensio edvard gabriel.png
+0410, grünberg, karl-richard.png
+0412, gudme, iver de hemmer.png
+0413, gudme, peter de hemmer.png
+0414, gurjanov, nikolai.png
+0420, gustav v.png
+0421, gustavson, august.png
+0422, gustavson, konstantin.png
+0424, haas, karl-friedrich.png
+0425, haasma, rudolf.png
+0426, habermann, karl-leopold.png
+0427, häelme, aleksander-johannes.png
+0430, hahn, johan-heinrich.png
+0431, haig, douglas.png
+0433, hainsalu, johannes.png
+0436, håkansson, lars.png
+0437, haking, richard cyril byrne.png
+0438, hakk, hugo-voldemar.png
+0441, häll, pietari einar.png
+0442, haller de hallenburg, józef.png
+0443, haller de hallenburg, stanisław.png
+0444, halliku, arthur-johannes.png
+0447, hanbury-williams, john.png
+0449, hannikainen, karl onni gerhard.png
+0450, hänninen, mikko.png
+0451, hannon, patrick joseph henry.png
+0453, hannula, erkki.png
+0455, hansar, paul-johannes.png
+0456, hansen, andres.png
+0458, hansen, edgar-harry-hermann.png
+0460, hansen, karl.png
+0462, hansen, osvald.png
+0463, hanson, jaan, hansu p.png
+0464, hanson, jaan, jaani p.png
+0465, hanson, paul.png
+0466, hanssoo, jaan.png
+0467, hanstein, balder.png
+0470, harjakas, hans.png
+0471, harju, kaarlo eerikki.png
+0472, harjusvuo, vilho akseli.png
+0475, hartmanis, mārtiņš.png
+0477, hasmanis, viktors.png
+0478, haudumägi, august.png
+0481, havas, väinö rafael.png
+0485, hedberg, august reinhold.png
+0493, hein, tiido.png
+0494, heinaru, enn.png
+0495, heinmaa, johannes-eduard.png
+0495, heinmaa, johannes-eduard.png
+0496, heinmaa, juhan, jakobi p.png
+0501, heinrichsen, edgar-georg-heinrich.png
+0502, heinrichsen, johnny.png
+0503, heinrichsen, karen.png
+0504, heinsalu, jaak.png
+0505, heinsalu, kaljo.png
+0506, heinze, otto-emil-eduard.png
+0508, heljuste, jaan.png
+0509, hellat, jüri.png
+0511, helm, jaan.png
+0514, helsingius, karl birger.png
+0515, helske, lauri jafet.png
+0516, henderson, loy wesley.png
+0517, henno, johan.png
+0520, herem, paul-nikolai-johann.png
+0521, herm, johannes-eduard.png
+0522, herne, alfred.png
+0523, herne, eduard.png
+0524, herriot, édouard.png
+0529, hiielaid, hendrik.png
+0531, hillilä, kaarlo henrik.png
+0534, hindreus, egon-ferdinand.png
+0535, hindse-nielsen, svend.png
+0536, hinno, aleksander.png
+0537, hinno, paul.png
+0538, hinnom, arnold-johannes.png
+0539, hinnov, ludvig.png
+0540, hinterhoff, eugenjusz.png
+0542, hinto, arved.png
+0543, hints, martin-august.png
+0544, hiob, richard-eduard.png
+0545, hion, viktor.png
+0547, hirjel, jaan.png
+0550, hirve, vladimir.png
+0551, hirvelaan, hans.png
+0554, hjelt, vera augusta.png
+0555, hjorth, valborg.png
+0556, hõbemägi, edgar-johannes.png
+0559, hoffart, robert.png
+0560, holberg, johan.png
+0561, holcmanis, vilis.png
+0562, hold, herbert-andreas.png
+0563, holland, johannes-voldemar.png
+0564, holm, harald-matthias.png
+0565, holm, heinrich.png
+0567, holma, harri gustaf.png
+0571, holopainen, eino.png
+0573, holsmann, johann-ferdinand.png
+0574, holstein, ernst emil.png
+0575, holsti, eino rudolf woldemar.png
+0576, honkajuuri, iivari mauri.png
+0578, honnorat, andré.png
+0579, hook, reinhold.png
+0580, horn, julius.png
+0581, hornborg, eirik mikael.png
+0584, horthy de nagybánya, miklós.png
+0585, horton, max kennedy.png
+0586, howard, esme william.png
+0589, hoyningen-huene, hermann-hans-jürgen von.png
+0593, hunt, karl.png
+0594, hunt, reinhold-aleksander.png
+0597, hüppler, edmund-rudolf.png
+0598, hurmerinta, kaarlo viktor.png
+0600, hurt, richard.png
+0603, hussar, jaan.png
+0604, hüvato, valdur.png
+0605, hymans, paul louis adrien henri.png
+0611, ibrus, hellmuth-matthias.png
+0612, idam, hans.png
+0613, idman, karl gustaf.png
+0614, iir, märt.png
+0617, ilme, ernst-august.png
+0618, ilmet, salme.png
+0619, ilves, aleksander.png
+0620, ilves, august.png
+0621, ingel, johannes.png
+0623, inti, oskar.png
+0624, irv, anton.png
+0625, ishii, kikujirō.png
+0628, isotalo, antti.png
+0629, itaalia tundmatu sõdur.png
+0630, ivalo, santeri.png
+0631, ivand, karl.png
+0633, ivansons, oskars arveds.png
+0634, iwaszkiewicz-rudoszański, wacław teodor.png
+0635, jaago, arnold.png
+0636, jaagura, mart.png
+0637, jaakson, aleksander.png
+0638, jaakson, jaan.png
+0639, jaakson, jüri.png
+0640, jaanberg, aleksander-albert.png
+0641, jaanimets, karl.png
+0642, jaanso, otto.png
+0643, jaanson, robert-johann.png
+0644, jaanus, karl.png
+0646, jagomäe, karl-robert.png
+0648, jakobsen, ludvig-karl.png
+0650, jakobson, karl.png
+0651, jakobson, villem.png
+0652, jalakas, karl-arnold.png
+0656, jänes, feliks.png
+0657, jansen, juhan.png
+0658, janson, nikolai.png
+0659, jansons, jūlijs voldemārs.png
+0660, jantov, jüri.png
+0665, järve, august.png
+0666, järvekülg, georg-bernhard.png
+0667, järvelaid, aleksander.png
+0668, järver, juhan.png
+0675, jędrzejewicz, wacław.png
+0677, jens, hugo-johannes.png
+0678, jensen, august.png
+0681, jervan, martin-volmer.png
+0682, joaste, elmar.png
+0683, jõelaid, henrik.png
+0684, jõerand, mart.png
+0685, jõesaar, viktor.png
+0686, jõgevest, juhan.png
+0688, jõgi, eduard.png
+0689, jõgi, johannes.png
+0690, johannes, adolf-mihkel.png
+0691, johannes, peeter-adolf.png
+0692, johannson, arthur.png
+0695, johanson, eduard.png
+0696, johanson, mart.png
+0700, johnwick, stanley adam.png
+0701, jokinen, elias.png
+0702, jokioinen, eino urho kustaa.png
+0704, jonson, gustav.png
+0705, jõõks, hans.png
+0706, joonet, alfred-evald.png
+0709, jouvenel, henry de.png
+0711, jungermann, johan.png
+0712, jungerth-arnóthy, michael.png
+0713, junkur, jaan.png
+0716, junts, august-johannes.png
+0717, jürgen, jüri.png
+0718, jürgens, arnold-johannes.png
+0719, jürgens, eduard-johannes.png
+0721, jürgens, hermann.png
+0722, jürgens, jakob.png
+0724, jürgenson, hugo-vilhelm-leonhard.png
+0725, jürgenson, julius.png
+0726, jürima, egbert-michael.png
+0727, jürimaa, johannes.png
+0728, jürimäe, aleksander.png
+0729, jürine, mart.png
+0730, jüris, johan.png
+0731, jürisoo, peeter.png
+0732, jürisson, johannes.png
+0733, jürisson, voldemar.png
+0734, jüriste, juhan.png
+0735, jürna, johannes-aleksander.png
+0736, jürvetson, jüri.png
+0737, jürvetson, voldemar.png
+0741, juurisma, adrian-endrek.png
+0744, kaal, karl.png
+0747, käär, jaan.png
+0750, kaasik, august.png
+0751, kaasik, leonhard-karl.png
+0752, kaasik, priidu.png
+0753, kabur, peeter.png
+0754, kadak, jaan.png
+0755, kadak, karl.png
+0756, kadaksaar, aleksander.png
+0757, kadarik, peeter.png
+0758, kahro, otto-karl.png
+0759, kaigas, aleksander.png
+0760, käige, herbert.png
+0763, kaila, elmo edvard.png
+0768, kajak, johannes-richard.png
+0769, kalbas, johannes.png
+0770, kalberg, teodor.png
+0771, kalda, jakob.png
+0772, kalda, joann.png
+0773, kalda, karl.png
+0774, kaldamäe, valdik.png
+0775, kaldas, august.png
+0776, kalde, jakob.png
+0777, kaldmäe, eduard.png
+0778, kaldveer, juhan.png
+0779, kalervo, vilho kustaa.png
+0780, kalev, georg.png
+0783, kalikorm, heinrich-martin.png
+0785, kaljund, tõnis.png
+0786, kaljuste, rudolf.png
+0787, kaljuver, eduard.png
+0788, kallas, august.png
+0789, kallas, oskar-philipp.png
+0790, kallaste, georg.png
+0791, kalle, ferdinand-magnus.png
+0794, kallio, kyösti.png
+0795, kallio, sulo antero petter.png
+0797, kallioinen, lauri.png
+0798, kallmann, jüri.png
+0799, kallo, hans.png
+0800, kalm, hans.png
+0801, kalm, kaarel-johannes.png
+0802, kalm, teodor.png
+0803, kalmet, kristjan.png
+0804, kalnings, ringolds frīdrihs magnuss.png
+0805, kalniņš, eduards.png
+0806, kalniņš, jānis.png
+0807, kalpa, kaarlo ilmari.png
+0808, kalter, johannes.png
+0809, kalvi, johannes.png
+0810, kalvik, aleksander.png
+0813, kanarik, villem.png
+0814, kanasaar, peeter-victor.png
+0815, kanep, konstantin.png
+0817, kang, karl-august.png
+0819, kanger, karl.png
+0820, kangro, august.png
+0821, kangro, gottfried-roman.png
+0822, kangro, rené-paul-ferdinand.png
+0823, kangro, roland.png
+0825, kann, peeter.png
+0826, kannelaud, julius.png
+0828, kapsi, friedrich-johann.png
+0829, kapstas, aleksander.png
+0830, kaptein, rudolf.png
+0833, karineem, willem.png
+0834, karing, voldemar-nikolai.png
+0838, karjel, juko.png
+0839, karjel, lembit.png
+0841, karklin, alfred-georg.png
+0842, karlson, august.png
+0843, karlson, jaan.png
+0844, karm, jaan.png
+0845, karm, osvald.png
+0846, kärmas, johan.png
+0847, kärmas, villem.png
+0848, kärme, mihail.png
+0851, kartna, artur.png
+0852, karu, eduard.png
+0853, karu, hans.png
+0854, karu, julius.png
+0856, karumets, mart.png
+0857, karunga, robert-johannes.png
+0858, kasak, august.png
+0859, kase, johan-leonhard.png
+0860, kasekamp, august.png
+0861, kasemaa, julius.png
+0862, kasemaa, kaarel.png
+0863, kasepalu, friedrich-roman.png
+0864, kask, aleksander.png
+0865, kask, august.png
+0866, kask, heinrich.png
+0867, kask, karl.png
+0868, kask, otto.png
+0869, kask, peeter-johann.png
+0870, kask, rahuleid-julius-max.png
+0871, kask, rudolf-johannes.png
+0872, kask, vassili.png
+0873, kask, voldemar.png
+0874, kaskla, jüri.png
+0875, kasparsons, mārtiņš eduards johans.png
+0876, kasper, julius.png
+0877, käspre, ants.png
+0878, kass, peeter.png
+0880, kaste, rudolf.png
+0881, kastema, osvald.png
+0884, kattai, juhan.png
+0886, kattel, voldemar.png
+0889, kauler, hugo-eduard.png
+0890, kaup, jaan.png
+0892, kauts, gustav.png
+0894, kedder, johannes.png
+0896, keek, hans.png
+0897, keerd, karl-eduard.png
+0898, keerdoja, karl-robert.png
+0899, keermaa, oskar.png
+0900, keerpärg, julius.png
+0905, keizerlings, arčibalds pēteris teofils aleksandrs gebhards eduards von.png
+0906, kelk, juhan.png
+0908, kendra, julius.png
+0909, keng, august.png
+0911, kepmann, martin-alexander.png
+0914, keskküla, kristof.png
+0915, kesksalu, jakob.png
+0917, kesküla, aleksander.png
+0918, kesküla, georg.png
+0919, kesküla, mihail.png
+0920, kessler, edmund.png
+0922, kettunen, hilja armida.png
+0924, kettunen, lauri einari.png
+0925, kevend, karl.png
+0926, kielberg, august-johannes.png
+0928, kiigemaa, aleksander.png
+0930, kiili, joosep.png
+0931, kiisvek, martin.png
+0932, kikas, oskar.png
+0933, kikerpill, karl.png
+0934, kilm, ludolf.png
+0935, kimmel, karl.png
+0936, kindlam, theodor-friedrich.png
+0937, kingo, august-johann.png
+0938, kink, hans.png
+0939, kink, johannes-heinrich.png
+0940, kippar, johannes.png
+0942, kippus, johannes-ferdinand-osvald.png
+0943, kirkmann, hans.png
+0944, kirnmann, evald-ottokar.png
+0945, kirotar, elmar-juhan.png
+0946, kirs, august.png
+0948, kirschbaum, richard-johann.png
+0949, kirsipuu, robert-heinrich.png
+0950, kirt, peeter.png
+0951, kits, johannes.png
+0952, kitsel, andres.png
+0954, kitsing, jaak.png
+0955, kitsing, richard.png
+0956, kiudorv, artur.png
+0957, kivekäs, kaarlo edvard.png
+0959, kivilo, eik.png
+0960, kivilo, martin-johannes.png
+0961, kivilo, rudolf.png
+0963, kivimurd, otto.png
+0965, kivinurm, alfred-ferdinand.png
+0966, kivirand, victor-adalbert-osvald.png
+0967, kivisaar, peeter.png
+0968, kiviväli, johannes.png
+0969, klaar, jaen.png
+0970, klaas, aleksander.png
+0971, klaasen, herman.png
+0972, klamas, johannes.png
+0973, klasing, aleksander.png
+0974, klasmann, julius-august.png
+0976, klein, karl.png
+0977, klein, valdemar anton carl.png
+0978, klement, daniel-rudolf.png
+0981, klemetti, heikki valentin.png
+0982, klesment, johannes.png
+0984, klettenberg, aleksander.png
+0985, klimbek, jaan.png
+0989, koern, august.png
+0990, koern, tõnis.png
+0991, koern, viktor.png
+0993, koger, ado.png
+0994, koger, juhan.png
+0995, koger, karl-elmar.png
+0996, kohk, johannes.png
+0997, koht, voldemar-karl.png
+0998, koidu, jaan.png
+0999, koik, allo.png
+1000, koik, ants.png
+1001, koik, jaak.png
+1002, koik, nikolai.png
+1003, koitla, jakob.png
+1004, kõiv, julius-rudolf.png
+1005, koivisto, eino yrjö.png
+1009, kokk, märt.png
+1010, kokk, oskar.png
+1011, koks, martin.png
+1012, kolde, friedrich-johannes.png
+1013, koljonen, tuomas vilho.png
+1014, kolk, eduard.png
+1015, kolle, andres.png
+1016, kõlljalg, johannes.png
+1018, kolts, peeter.png
+1019, kolviko, alfred-leopold.png
+1021, komatsubara, michitaro.png
+1022, konga, voldemar.png
+1023, kongo, oskar.png
+1024, konik, konstantin-aleksander-oskar.png
+1025, konks, aleksander.png
+1027, kook, august-eduard.png
+1028, kool, karl-alexander.png
+1031, koorits, august.png
+1032, köösel, elmar-oscar.png
+1033, köösel, leo-friedrich.png
+1034, koot, peeter-ernst.png
+1035, koov, johan.png
+1036, koppel, hendrik.png
+1038, koppel, karl-oskar.png
+1040, kore, tiidu.png
+1043, korjus, karel-adolf.png
+1044, kork, jüri.png
+1045, kornel, karl-ferdinand.png
+1049, korts, august.png
+1050, korts, joosep.png
+1051, kõrtsmik, mihail.png
+1052, korv, arthur.png
+1054, kose, anton.png
+1055, kosk, mihkel.png
+1056, kosk, rudolf-eduard.png
+1059, koskinen, paavali johannes.png
+1060, kosola, iisakki vihtori.png
+1061, köster, oskar.png
+1062, köstner, nikolai.png
+1063, kottise, august.png
+1065, kõu, jaak.png
+1066, kõue, jaan.png
+1069, kovkin, boris.png
+1070, krastin, valfried.png
+1071, kraus, aleksander.png
+1074, krimming, arthur-joseph.png
+1076, kromel, gustav-karl.png
+1077, kronk, konstantin.png
+1078, krull, leonhard-johann.png
+1079, krup, hans.png
+1080, kruus, aleksander.png
+1081, kruus, hans.png
+1082, kruus, jaan.png
+1083, kruusa, voldemar.png
+1084, kruuse, johannes.png
+1085, kruuse, karl-voldemar.png
+1086, kruusement, peeter.png
+1087, kruusimägi, albert.png
+1088, kruusmann, jüri.png
+1090, kübar, rudolf.png
+1091, kubbo, eduard-alfred.png
+1092, kubu, heinrich-august.png
+1093, kügler, konrad-gerhard-theophil.png
+1097, kukebal, friedrich-johann.png
+1098, kukk, anna-marie.png
+1099, kukk, arne.png
+1100, kukk, eduard.png
+1101, kukk, johannes.png
+1102, kukk, juhan.png
+1103, kukk, mihkel.png
+1105, külaots, leonhard-johannes.png
+1106, kulasalu, august.png
+1107, kulbok, hugo.png
+1108, kuldna, johannes.png
+1109, kuldsepp, hans.png
+1110, kulgver, aleksander.png
+1111, kull, august, anni p.png
+1112, kull, august, jaani p.png
+1113, kull, villem.png
+1114, kullamäe, jaan.png
+1115, kullasepp, martin.png
+1117, külmhallik, martin.png
+1119, kunder, aleksander.png
+1120, küngas, juhan.png
+1121, kungla, gustav.png
+1122, kunila, aarne.png
+1124, künnapuu, arthur-nicolai.png
+1125, künnapuu, avo.png
+1126, künnapuu, johan.png
+1127, kunnus, paul-alexander.png
+1129, kuperjanov, julius.png
+1130, kuplais, eduards.png
+1131, küppar, modest.png
+1132, kurejoki, eero kustaa.png
+1133, kurelauk, rudolf.png
+1134, kurg, friedrich.png
+1136, kurik, august.png
+1139, kurm, jakob.png
+1140, kurre, maks.png
+1142, kurro, august.png
+1143, kurs, voldemar.png
+1144, kurše, arnolds.png
+1145, kursk, emil-aleksander-leonhard.png
+1146, kurvinen, otto.png
+1147, kurvits, ants.png
+1148, kurvits, jaan.png
+1149, kurvits, oskar.png
+1150, kurvits, peeter.png
+1152, kuslap, rudolf.png
+1153, kussal, eduard.png
+1154, kutrzeba, tadeusz andrzej.png
+1155, kutsar, jaan.png
+1156, kutser, eduard.png
+1158, kütt, georg.png
+1160, küttis, johannes.png
+1161, kuul, roman.png
+1164, kuurberg, august.png
+1165, kuus, heinrich-elias.png
+1167, kuusik, edgar-johann.png
+1168, kuusik, karl.png
+1169, kuusk, adolf.png
+1170, kuusk, eduard-emil.png
+1171, kuusk, hans.png
+1172, kuuskand, jakob-august.png
+1173, kuussaari, eero vilho.png
+1175, kvell, oskar.png
+1176, la pradelle, albert de geouffre de.png
+1180, laamann, paul-georg.png
+1181, laane, peeter.png
+1182, lääne, voldemar.png
+1183, laanemets, eduard.png
+1184, laansoo, gustav.png
+1185, laarmann, jaan-raimund.png
+1186, laarmann, otto.png
+1187, laas, mihkel.png
+1188, laats, artur-johannes.png
+1189, laatsarus, karl.png
+1191, lagerström, valter isidorus.png
+1193, lahti, aimo.png
+1195, laidoner, johan.png
+1196, laidroo, aleksander-heinrich.png
+1198, laimiņš, eduards kārlis osvalds.png
+1202, laine, karl.png
+1203, laipmann, aleksander-hans.png
+1208, lambart, frederick rudolph.png
+1209, lamberg, arnold-friedrich-johannes.png
+1212, lampson, eduard.png
+1213, lannes, aleksander.png
+1214, lantov, albrecht-ferdinand.png
+1216, lapp, alfred-theodor.png
+1217, laretei, heinrich.png
+1218, larka, andres.png
+1219, larka, johannes.png
+1220, larm, august.png
+1221, laroche, jules alfred.png
+1225, larven, johannes-alfred.png
+1227, lasn, juhan.png
+1228, lass, oskar.png
+1230, lassila, helge emil.png
+1232, lätt, johannes-arnold.png
+1235, laur, anton.png
+1236, laur, georg.png
+1237, lauramo, ludvig.png
+1242, laurits, karl-johann.png
+1243, laurits, paul.png
+1245, laurson, leo.png
+1246, laus, hain.png
+1247, lauter, predik.png
+1249, lavonius, wilhelm alexander.png
+1251, lee, mardo.png
+1252, leedmaa, villem.png
+1253, leeman, boris.png
+1256, leesment, hans.png
+1257, leetmaa, ado.png
+1259, leets, georg.png
+1260, leets, nikolai.png
+1261, leetus, karl.png
+1262, lehtmets, eduard-julius.png
+1265, leibach, karl.png
+1267, leisk, august.png
+1268, leisner, jaan.png
+1269, leitma, jaan.png
+1270, leius, kaarel.png
+1271, lekstein, mihkel.png
+1272, lell, arnold.png
+1273, lell, august.png
+1274, lell, nikolai.png
+1275, lemann, herbert-michael.png
+1277, lender, jaan.png
+1279, lensment, karl.png
+1280, lensu, toivo.png
+1281, lents, vaabu.png
+1283, lepik, jaan, aadu p.png
+1284, lepist, johannes-friedrich.png
+1287, lepp, jaan.png
+1289, leppik, andreas.png
+1290, leppik, arnold.png
+1291, leppik, august.png
+1292, leppik, jaan, villemi p.png
+1293, leppikson, arhalt-julius.png
+1294, leppmets, hans.png
+1295, lerche, flemming emil harald albrecht.png
+1296, leslie, james edmund peter.png
+1297, lessel, richard-vilhelm-paul.png
+1298, leth, gustaf hjalmar.png
+1299, lett, nikolai.png
+1300, lettens, hindrik.png
+1301, libene, martin.png
+1302, liblik, august.png
+1304, liibus, eduard-ervin.png
+1306, liik, oskar.png
+1309, liiv, georg.png
+1310, liiv, hans.png
+1311, liiv, vilhelm-heinrich.png
+1312, liivak, viktor.png
+1313, liivamägi, karl-friedrich.png
+1316, lill, august.png
+1317, lill, paul-adolf.png
+1318, lillak, arnold.png
+1319, lillakas, hans.png
+1321, lilleleht, paul-august.png
+1322, lillemaa, aado.png
+1323, lillemägi, jaak.png
+1324, lillenstern, johan.png
+1325, limberg, ernst-karl-johannes.png
+1326, lind, aleksander.png
+1327, lind, jaan.png
+1328, lind, karl.png
+1333, linde, aleksander-august.png
+1334, linde, mihkel.png
+1335, lindell, leo oskar.png
+1336, lindemann, konstantin.png
+1340, lindmäe, verner.png
+1342, lindqvist, gunnar isak.png
+1343, lindre, leopold.png
+1349, lindus, johannes.png
+1350, lindvers, julius-aleksander.png
+1351, link, eduard.png
+1352, link, nikolai-vilhelm.png
+1353, linnamägi, karl.png
+1354, linneberg, bruno-aleksander.png
+1355, linno, august-ferdinand.png
+1356, linno, richard-johannes.png
+1357, linnus, ferdinand.png
+1358, lints, rudolf-johannes.png
+1359, lipand, harald.png
+1360, lipand, karl.png
+1361, lipmann, johan-arthur.png
+1363, lippus, johannes.png
+1364, lips, peeter.png
+1365, lipstok, heinrich.png
+1367, listakind, paul.png
+1368, lloyd george, david.png
+1369, lloyd, humphrey willis chetwode.png
+1370, lobjakas, artur-alfred.png
+1371, lode, torsten leonhard.png
+1373, lõhmus, ants.png
+1374, lõhmus, jakob.png
+1375, lõhmus, juhan.png
+1376, lõhmus, karl.png
+1377, loide, endel.png
+1379, lokko, gustav.png
+1380, lomus, eduard.png
+1382, lõokene, aleksander.png
+1383, lõõndre, julius.png
+1384, loorits, artur.png
+1385, loorits, gustav.png
+1386, loorits, villem.png
+1387, loos, eduard.png
+1388, loosberg, johannes.png
+1389, lossmann, arthur-alexander.png
+1390, lossmann, tõnis.png
+1393, louhivuori, oskari wilho.png
+1394, luberg, heinrich.png
+1396, lubi, jüri.png
+1399, lugus, jaan.png
+1401, luha, eduard.png
+1402, luhaäär, karl.png
+1403, luhaär, ilmar.png
+1404, luhe, aleksander-heinrich.png
+1405, luiga, adalbert-hugo.png
+1406, luiga, aleksander.png
+1407, luiga, hans.png
+1408, luiga, johannes.png
+1409, luiga, oskar.png
+1410, luik, aleksander.png
+1411, luik, paul.png
+1412, luik, richard-august.png
+1414, luik, voldemar.png
+1415, lukas, albert.png
+1416, lukas, jaan.png
+1417, łukaśiewicz, juliusz.png
+1418, lukk, gerhard-eugen.png
+1419, lukk, herbert-peeter.png
+1420, lumi, jaan.png
+1421, lund, anna margrete.png
+1422, lundborg, einar paul albert muni.png
+1425, lust, rudolf-aleksander.png
+1428, luts, karl-friedrich.png
+1429, lutsar, julius.png
+1430, luulik, madis.png
+1431, lüüs, aado.png
+1433, lyly, kosti johannes.png
+1435, maaniidi, august.png
+1437, maarits, august.png
+1438, maasik, kristov.png
+1439, maasing, richard.png
+1441, madisson, johann.png
+1442, madiste, konstantin.png
+1444, mäepõld, martin-johannes.png
+1445, mäeste, valdo.png
+1446, mager, rudolf.png
+1447, mägi, august.png
+1449, mägi, evald.png
+1450, mägi, juhan.png
+1451, magus, priidu.png
+1452, mähar, jakob.png
+1453, mahnke, arthur-georg-richard.png
+1454, mahnke, christoph-friedrich-johannes.png
+1456, maide, eduard.png
+1457, maide, jaan.png
+1458, maide, johannes-voldemar.png
+1460, maim, hermann.png
+1461, maim, richard-johannes.png
+1462, maisaar, jaanus-karl.png
+1464, maisma, juhan.png
+1465, maiste, aleksander.png
+1468, mäki, vilho.png
+1469, makkar, hugo.png
+1470, makko, rudolf.png
+1473, malevitš, aleksander.png
+1477, malken, jaan.png
+1478, mälkönen, aino.png
+1479, malm, priidik.png
+1482, malmberg, carl-georg.png
+1484, malmberg, kaarlo lauri thorvald.png
+1485, mamers, oskar-heinrich.png
+1486, mänd, hugo.png
+1487, mänd, johannes.png
+1488, mänd, julius.png
+1489, mänd, mihkel.png
+1490, mänd, oskar.png
+1491, mandel, august.png
+1492, mändmets, karl-georg.png
+1493, mändoja, karl-eduard.png
+1497, männik, august.png
+1498, männik, eduard.png
+1499, männik, elmar-friedrich.png
+1500, männik, jaan.png
+1501, männik, johannes.png
+1502, männik, otto.png
+1503, männik, villem.png
+1504, manninen, eero niilo.png
+1505, männiste, august.png
+1506, mansik, hermann.png
+1507, mantecón, antonio e.png
+1510, marder, villem-gustav.png
+1511, maremaa, edgar-eduard.png
+1512, marguste, eduard.png
+1513, maripuu, villem.png
+1517, marsh, frank graham.png
+1519, martin, franz-heinrich.png
+1520, martin, vassili.png
+1521, martinson, august.png
+1522, martinson, johannes.png
+1523, martma, felix-martin-conrad.png
+1524, martna, mihkel.png
+1526, märtson, jaan.png
+1527, marttinen, einar isakki.png
+1529, maruste, andrei.png
+1530, masik, joann.png
+1533, masti, indrek.png
+1535, mätas, jaan.png
+1537, mätlik, arnold-ervin.png
+1538, matsalo, ants.png
+1540, matson, jaan.png
+1542, mattus, enn.png
+1543, matuszewski, ignacy hugo.png
+1546, māziņš, ādolfs.png
+1551, meel, konstantin.png
+1552, meeme, juhan.png
+1553, meerpuu, aleksander.png
+1554, meet, märt.png
+1555, meidla, eduard.png
+1556, meidla, teodor-rudolf.png
+1557, meierovics, zigfrīds anna.png
+1558, meijel, eduard.png
+1559, meiklejohn, ronald forbes.png
+1560, meiner, tõnis.png
+1561, meister, kristjan.png
+1562, mekler, johannes.png
+1563, mekšs, jānis.png
+1565, melts, aleks-henn.png
+1566, melts, eduard-kristjan.png
+1567, meltsas, peeter.png
+1568, mend, wilhelm.png
+1569, menning, karl.png
+1570, mere, valev.png
+1571, merela, jaan.png
+1572, meremaa, priidu.png
+1574, meris, mihkel.png
+1576, mesi, voldemar.png
+1577, mets, aleksander.png
+1578, mets, jaan.png
+1579, metsalu, juhan.png
+1580, miettinen, eero.png
+1582, miglavs, jānis.png
+1583, mihk, rudolf.png
+1584, miido, eustaatius.png
+1585, miil, karl.png
+1587, mikker, arnold-michail.png
+1590, mikli, kustav.png
+1591, milistfer, jaan.png
+1593, miller, hans.png
+1595, miller, reinhold.png
+1596, millerand, alexandre.png
+1597, millistfer, johan.png
+1598, mirka, andres.png
+1599, mitt, jakob.png
+1600, mitt, johann, karli p.png
+1601, mitt, johann, simmi p.png
+1602, mitt, karla.png
+1603, mitt, osvald-kristjan.png
+1605, mohov, semjon.png
+1606, moik, bernhard-johannes.png
+1607, moks, august.png
+1608, møller, jenny.png
+1609, møller, signe.png
+1610, möllerson, rudolph-alexander.png
+1611, mölter, theodor.png
+1612, moor, voldemar.png
+1613, moora, harri.png
+1614, moorits, paul.png
+1615, moorlat, eduard.png
+1616, morel, adam.png
+1617, morison, samuel eliot.png
+1620, mõtsur, peeter.png
+1621, mõttus, aleksander.png
+1622, mõttus, johann.png
+1624, mühlverk, paul-ferdinand.png
+1625, muide, rudolf.png
+1626, muinasmaa, jaan.png
+1628, muldau, jüri von.png
+1629, muldau, nicolai-heinrich-carl-amandus von.png
+1630, muldma, magnus.png
+1631, mullari, raiu.png
+1632, mullart, michail-johann.png
+1633, müller, karl-emil-hans.png
+1635, müllerson, elmar.png
+1636, müllerson, juhan.png
+1637, multer, heinrich-eduard.png
+1639, munner, jakob.png
+1640, munters, gothards vilhelms nikolajs.png
+1642, murde, jaan.png
+1643, murelik, leopold.png
+1647, murumaa, august.png
+1648, murumägi, johannes-eduard.png
+1649, mussolini, benito amilcare andrea.png
+1651, must, magnus.png
+1652, mutli, artur.png
+1655, muts, aleksander.png
+1656, muts, johannes-friedrich.png
+1657, mutt, viktor.png
+1658, muul, mihkel.png
+1659, müür, paul.png
+1660, müürik, aleksander.png
+1664, myszkowski, aleksander zygmunt.png
+1665, naaris, jaan.png
+1666, naarits, kaarel.png
+1667, naaskel, aleksander-leopold.png
+1668, naelaste, jüri.png
+1669, naistem, voldemar.png
+1671, näripea, aleksander.png
+1672, närska, august.png
+1673, naska, johannes.png
+1674, naumann, jaan.png
+1675, neem, jaan.png
+1676, neemre, emil-heinrich.png
+1677, neerut, hans.png
+1678, neggo, edgar-richard.png
+1679, neigardt, arnold.png
+1682, neps, eduard-jakob.png
+1684, nerep, elmar.png
+1685, nestra, alfred-julius.png
+1687, nicaise, michel edouard.png
+1691, nieminen, arthur-hemming.png
+1693, niggol, aleksander.png
+1694, niggol, arnold.png
+1697, nigul, jüri.png
+1698, nigulas, hugo.png
+1699, niimeister, peeter.png
+1700, niit, evart.png
+1701, niitme, heino.png
+1705, nikolai, erik-friedrich-georg.png
+1707, niskanen, ville.png
+1708, nõgu, aleksander.png
+1710, nõmme, johannes.png
+1711, nõmmik, martin.png
+1712, nõmmik, mihkel.png
+1713, nool, paul-eduard.png
+1717, normak, aleksander-mihkel.png
+1718, normak, arnold-reinhard.png
+1719, normak, otto-lembit.png
+1720, norman, johannes-theodor.png
+1721, norme, karl holger athniel.png
+1722, normet, jaan.png
+1723, nõu, bernhard.png
+1725, nukk, august-ulrich.png
+1727, nurklik, gustav.png
+1728, nurmberg, otto.png
+1730, nutt, juhan.png
+1731, nuut, jaan.png
+1732, nuut, villem.png
+1739, oehren, erich-bernhard.png
+1740, ohak, mihkel.png
+1741, oidermann, otto.png
+1742, oit, otto-voldemar.png
+1745, oivo, ragnar rafael.png
+1746, oja, andreas.png
+1747, oja, jaan.png
+1748, ojakäär, tõnis.png
+1750, ojamaa, aleksander, ilja p.png
+1751, ojamaa, aleksander, mardi p.png
+1752, ojangu, aleksander.png
+1753, ojansuu, heikki august.png
+1755, ojasoon, albert.png
+1756, ojasson, ulrich-august.png
+1757, ojaste, eduard.png
+1759, oksaar, märt.png
+1763, olander, hugo karl.png
+1764, olbrei, friedrich-alfred.png
+1765, oldekop, johannes-adelbert.png
+1766, olev, jaan.png
+1768, oll, vassili.png
+1773, ollmann, johannes.png
+1776, olsen, caroline.png
+1781, onni, heino.png
+1783, oopkaup, anton.png
+1784, opffer, søren christian.png
+1785, opmanis, rūdolfs voldemārs.png
+1786, orasmaa, johannes.png
+1787, orasmäe, jaagub-rudolf.png
+1788, orav, august.png
+1789, orav, august-karl.png
+1790, orav, gustav.png
+1791, orav, juhan.png
+1792, org, jaan.png
+1793, orgo, martin.png
+1794, orik, arnold-rudolf.png
+1795, orle, jaan.png
+1796, ormesson, karl-voldemar.png
+1798, orumets, märt-villem-hendrik.png
+1799, oskar, eduard.png
+1802, õsso, leonhard.png
+1804, ostrat, johann.png
+1805, ostrat, johannes.png
+1806, ostrov, mihkel.png
+1808, ots, august.png
+1809, ots, jüri.png
+1810, otsa, tavid.png
+1811, otsing, arnold.png
+1812, otsing, osvald.png
+1814, ottenson, august.png
+1815, ottep, johan.png
+1816, otti, peeter.png
+1817, õunap, paul.png
+1818, õunapuu, anton.png
+1819, õunapuu, karl.png
+1820, paabusk, jakob.png
+1821, paal, johan-voldemar.png
+1823, paap, jaan.png
+1825, pääsuke, jaan.png
+1827, paavilainen, mikko teodor.png
+1831, paesüld, herman.png
+1832, paff, robert-michail-johann.png
+1833, pagar, august.png
+1834, pagar, johannes.png
+1836, pahkla, aleksander-eduard.png
+1838, påhlsson, paul emil.png
+1839, pahv, eduard-alexander.png
+1840, paia, august.png
+1841, päid, august.png
+1843, painlevé, paul.png
+1845, pajos, evald-leopold.png
+1846, pajula, august.png
+1848, pajur, aleksander.png
+1849, pajusaar, kristjan.png
+1850, pajusoo, oskar.png
+1851, pajuste, andrei.png
+1853, pakk, august.png
+1856, pakkas, osvald.png
+1857, paldrok, aleksander.png
+1858, palginõmm, albrecht.png
+1859, pall, aleksander.png
+1860, päll, johannes.png
+1861, pallandi, hendrik.png
+1862, pallon, leonhard-hermann.png
+1863, palm, aleksander.png
+1865, palm, priidik.png
+1866, palm, richard-theodor.png
+1867, palmet, aleksander.png
+1868, palmiste, peeter.png
+1869, palmu, eino armas.png
+1870, paloheimo, karl alfred.png
+1872, pals, johannes.png
+1874, paltson, aleksander-georg.png
+1875, palu, oskar.png
+1877, panksepp, rudolf.png
+1878, parel, enn.png
+1879, pärg, kotlep.png
+1880, pärg, rein.png
+1881, parkja, jaan.png
+1882, parktal, joosep.png
+1883, pärn, ado.png
+1884, pärn, jaan.png
+1885, pärn, juhan.png
+1886, pärn, magnus-evald.png
+1888, pärnapuu, heinrich-leopold-voldemar.png
+1889, pärnasalu, august.png
+1890, pärnits, johan.png
+1892, parras, karl.png
+1893, parrol, mart.png
+1895, pärtels, aleksander.png
+1896, parts, aleksander.png
+1897, parts, gustav.png
+1898, parts, karl.png
+1899, parval, alfred-karl-johann.png
+1901, parvet, oskar.png
+1903, parving, karl.png
+1904, päsna, jaan.png
+1905, pass, teodor.png
+1906, pastak, gustav-aleksander.png
+1907, päts, konstantin.png
+1908, päts, peeter.png
+1909, päts, voldemar.png
+1910, pattak, joann.png
+1911, paulsen, karl-august-ferdinand.png
+1912, paulus, karl-aleksander.png
+1914, paurman, eduard.png
+1915, pavel, karl.png
+1918, pechter, karl.png
+1919, pedaja, jaan.png
+1920, pedak, ants.png
+1922, pedak, tõnis.png
+1923, pedak, valter.png
+1924, pedius, aleksander.png
+1926, pedosk, friedrich.png
+1927, pedosk, oskar.png
+1928, peebus, eerik.png
+1929, peedimaa, mihail.png
+1930, peelman, martin.png
+1931, peerna, paul.png
+1932, peet, august.png
+1933, peet, johan.png
+1934, pehka, johan.png
+1935, peistik, johannes.png
+1936, pekkanen, emil.png
+1937, pelanen, mikko.png
+1938, pelberg, joann.png
+1941, pencis, kārlis eduards.png
+1942, pendis, johan.png
+1943, peniķis, mārtiņš.png
+1944, pennar, johannes.png
+1946, pensa, johannes.png
+1947, pent, august.png
+1948, pent, jaan.png
+1949, pent, mihkel.png
+1951, penter, jüri.png
+1952, pentre, paul-harry.png
+1954, penu, aleksander.png
+1955, pere, mihhail.png
+1956, peretti de la rocca, comte emmanuel de.png
+1957, perk, johannes.png
+1958, perli, harald.png
+1959, perna, arthur.png
+1963, pesonen, lauri immanuel.png
+1964, pesur, albert.png
+1965, pétain, henry philippe benoni omer joseph.png
+1967, peterhoff, romeo-paul-eduard.png
+1968, peters, albert.png
+1969, peters, peeter.png
+1971, peterson, nikolai.png
+1972, peterson, tõnis-voldemar.png
+1973, pētersons, arvīds.png
+1976, philips, edgar-valentin.png
+1977, pihelgas, armand-friedrich.png
+1978, pihkala, martti aleksander.png
+1980, pihlak, aleksander.png
+1981, pihlak, alfred.png
+1982, pihlak, eduard-ferdinand.png
+1983, piho, rudolf.png
+1984, piibeleht, richard.png
+1985, piilmann, mihkel.png
+1987, piip, ants.png
+1988, piip, nikolai.png
+1989, piir, johan.png
+1990, piir, rudolf.png
+1991, pikat, aleksander.png
+1992, pikberg, jüri.png
+1993, pilden, heinrich.png
+1994, pilli, voldemar.png
+1995, piłsudski, józef klemens.png
+1996, pilve, anton.png
+1997, pinding, siegfried-theodor-leopold.png
+1998, pinka, friedrich-karl.png
+1999, pinka, herbert-karl.png
+2000, pinka, karl-julius.png
+2003, piperal, mihkel.png
+2004, piskor, tadeuz ludwik.png
+2005, pistmann, johannes-august.png
+2006, pitka, august-andreas.png
+2007, pitka, johan.png
+2009, plado, peeter.png
+2010, plaks, johannes.png
+2011, plakso, bernhard.png
+2012, plink, karl.png
+2013, ploom, jakob.png
+2014, pobol, august.png
+2015, põdder, ernst-johannes.png
+2016, põder, alfred-alexander.png
+2017, põder, voldemar.png
+2019, podrätsik, karl.png
+2020, põhako, kristjan.png
+2021, pohjala, kyllikki.png
+2023, poincaré, raymond.png
+2024, poka, august.png
+2025, pokkatz, august.png
+2027, põldoja, villem.png
+2029, põlendik, nikolai.png
+2031, pollisinski, oskar.png
+2032, põllu, evert-valentin.png
+2033, polluks, jakob.png
+2034, põlme, anton.png
+2035, pommer, jakob.png
+2036, ponsi, arvid.png
+2037, pontak, alfred.png
+2038, pontus, otto.png
+2039, poolak, georgi.png
+2040, poolmann, johannes.png
+2041, poopuu, johannes.png
+2043, porgand, anton.png
+2044, pori, anton.png
+2046, porre, paul.png
+2047, poska, jaan.png
+2049, potter, richard.png
+2053, praks, paul.png
+2054, prantsuse tundmatu sõdur.png
+2055, praosk, jaan.png
+2058, prees, aarne.png
+2059, prei, jakob.png
+2060, priedītis, kārlis.png
+2061, priggo, paul-johannes.png
+2062, priima, oskar-johannes.png
+2063, priks, paul.png
+2064, printsmann, jüri.png
+2065, priske, jüri.png
+2066, procopé, johan hjalmar fredrik.png
+2069, pruul, kaarel.png
+2070, pruul, karl-robert.png
+2071, pruun, joosep.png
+2072, przeździecki, stefan józef leon.png
+2075, puidak, heinrich.png
+2077, pukse, anton.png
+2078, puksov, richard.png
+2079, pukspuu, johannes.png
+2080, pulk, aleksander-voldemar.png
+2083, pung, karl.png
+2087, purga, juhan.png
+2088, puskar, johann.png
+2089, puskar, viktor-hugo.png
+2090, püss, alexander-rudolf.png
+2091, püss, anton-richard.png
+2093, puss, rudolf.png
+2094, pusta, kaarel-robert.png
+2095, pütt, jaan.png
+2096, puusepp, oskar-johannes.png
+2097, puusild, jaan.png
+2099, puustus, eduard-johannes.png
+2102, quarton, harold barlow.png
+2103, raadik, jaagup.png
+2104, raag, arthur-emil.png
+2105, räägel, anton.png
+2106, raam, heinrich.png
+2107, raamot, jaan.png
+2111, radziņš, pēteris voldemārs.png
+2112, rae, jako.png
+2113, rahe, aleksander.png
+2114, rähni, ants.png
+2115, rähni, ernst-voldemar.png
+2116, rahola, eero akseli.png
+2117, rahumaa, mart.png
+2118, raidna, herbert-voldemar.png
+2119, raik, anton.png
+2123, rajala, gustav.png
+2125, rajande, johann-albert.png
+2126, rajatamm, karl.png
+2127, rako, jaan.png
+2128, ramats, kārlis voldemārs.png
+2129, rammo, bruno.png
+2132, rand, karl.png
+2134, randalu, adam.png
+2135, randes, arand.png
+2136, randla, aleksander.png
+2137, randla, jüri.png
+2138, randlepp, juhan.png
+2139, randmaa, johannes.png
+2140, randmäe, eduard.png
+2141, randmets, voldemar.png
+2142, ranjitsinhji, vibhaji.png
+2143, rannastu, eerik.png
+2144, rannik, teodor.png
+2145, rannus, johannes.png
+2148, rass, jakob.png
+2149, rassi, himot.png
+2150, rataj, maciej.png
+2151, ratassepp, jüri-robert.png
+2152, ratassepp, leo-aleksander.png
+2153, ratiste, august.png
+2154, ratnieks, edgars.png
+2156, rätsnik, oskar.png
+2157, raud, hugo-gottfried.png
+2158, raud, johannes-aleksander.png
+2159, raudjas, mihkel.png
+2160, raudkivi, jaan.png
+2161, raudkivi, villem.png
+2163, raudmäe, johannes.png
+2164, raudne, osvald.png
+2165, raudsepp, hans.png
+2166, raudsepp, jaan, tõnise p.png
+2167, raudsepp, jaan, jaani p.png
+2168, raudsepp, peeter.png
+2169, raudsepp, rudolf.png
+2170, raudsoo, august.png
+2171, raudvere, oskar-aleksander.png
+2172, raun, johannes-julius.png
+2173, raun, otto-friedrich.png
+2174, raus, paul-vilhelm.png
+2175, rautanen, lauri kustaa waldemar.png
+2177, rautsma, juhan.png
+2178, razumov, georgi.png
+2180, rebane, august.png
+2181, rebane, hans.png
+2182, rebane, richard.png
+2183, rebase, daniel.png
+2184, rebast, arnold-johannes.png
+2185, rebina, hermann.png
+2186, reder, georg-august.png
+2187, reeben, august.png
+2188, reek, nikolai.png
+2189, rehe, arthur.png
+2190, rehe, friedrich.png
+2192, rei, august.png
+2193, rei, elmar.png
+2194, reidak, otto.png
+2195, reijonen, emil erkki.png
+2199, reimann, gustav-oskar.png
+2200, reimann, rudolf-johannes.png
+2201, reimets, eduard-julius.png
+2202, reinap, kristjan.png
+2203, reinart, martin.png
+2204, reinartz, valdemar-friedrich.png
+2205, reinberg, hugo.png
+2206, reinberg, richard-heinrich.png
+2212, reinvaldt, edvin-leopold-rudolf.png
+2213, reinvaldt, ivar-gottfried-constantin.png
+2214, reisberg, arthur-eduard.png
+2216, reisma, hendrik.png
+2217, reismann, eduard-martin.png
+2218, reitel, konstantin-aleksander.png
+2219, rekk, karl.png
+2220, rekola, eero rauno arvi.png
+2221, relander, lauri kristian.png
+2222, remma, mihkel.png
+2223, remmel, johannes.png
+2224, rennit, nikolai.png
+2225, rennu, victor.png
+2226, renter, julius-august.png
+2227, repnau, gustav-rudolf.png
+2228, reponen, sulo helmuth kalervo.png
+2230, ressar, edgar-osvald.png
+2233, reynald, georges.png
+2235, riben, carl fredrik wilhelm.png
+2236, riberg, hans.png
+2237, rieberg, voldemar-viktor.png
+2238, rihtniemi, elja.png
+2240, riidolin, hendrik.png
+2244, riikonen, yrjö armas.png
+2246, riis, jaan, andruse p.png
+2247, riis, jaan, jaani p.png
+2248, riis, jaan, magnuse p.png
+2249, riisenberg, jaan.png
+2250, riit, hugo.png
+2251, riive, volli.png
+2252, riives, rudolf.png
+2253, rikma, johannes.png
+2255, rink, jaan.png
+2257, riomar, friedrich.png
+2258, rist, august.png
+2259, ristoja, jaan.png
+2260, ristoja, karl.png
+2261, ritavuori, heikki.png
+2264, roden, johannes.png
+2266, roger, paul-nikolai.png
+2268, rohi, jaan.png
+2269, rõikla, johannes.png
+2271, rokk, rudolf-georg.png
+2274, roo, aleksander.png
+2275, roomere, arnold.png
+2277, roos, christoph.png
+2278, roos, jüri.png
+2279, roosaar, ants.png
+2280, roosi, mihkel.png
+2281, roosileht, jaan.png
+2282, roosileht, martin.png
+2283, roosipuu, rudolf-august.png
+2284, roosmaa, karel.png
+2285, roosmäe, august.png
+2286, roosmann, georg-eduard.png
+2287, roossaar, aleksander-osvald.png
+2288, roosson, jaak.png
+2289, roostalu, august.png
+2290, rootsi, johannes.png
+2291, rosalk, aleksander.png
+2292, rosblom, edvard nikolai.png
+2293, rose, august-voldemar.png
+2294, rosenberg, karl.png
+2299, rossländer, herman.png
+2301, rotberg, tõnis.png
+2303, rõuk, hans.png
+2304, rõuk, teodor.png
+2306, rozenšteins, hugo pēteris.png
+2307, rozwadowski, tadeusz.png
+2308, rubis, johannes.png
+2310, rudissaar, samuel.png
+2311, ruiso, jaan.png
+2313, rünk, rudolf-johannes.png
+2315, rusi, johannes.png
+2316, rusi, voldemar-heinrich.png
+2317, ruškevics, jēkabs rūdolfs.png
+2319, ruus, juhan.png
+2320, ruus, peeter.png
+2322, ruusmaa, august.png
+2323, ruusmann, peet.png
+2324, rüütel, alfred.png
+2326, ruutu, yrjö oskar.png
+2328, ryan, edward william.png
+2329, rybak, józef artur.png
+2330, rydz-śmigły, edward.png
+2331, rytkönen, ilmari elis.png
+2332, saal, anton.png
+2333, saal, elmar-gerhard.png
+2334, saal, johannes.png
+2335, saaliste, jüri.png
+2336, saar, alfred.png
+2337, saar, august, ferdinandi p.png
+2338, saar, august, mihkli p.png
+2339, saar, eduard, hansu p.png
+2340, saar, eduard, jaani p.png
+2341, saar, ernst.png
+2342, saar, johannes.png
+2343, saar, julius.png
+2346, saaremaa, johannes.png
+2347, saarepera, tõnis.png
+2348, saarepere, johannes.png
+2349, saarepere, voldemar-heinrich.png
+2350, saareste, ernst-julius.png
+2354, saario, hugo.png
+2355, saarnak, andrei.png
+2356, saarnok, leo.png
+2358, saarup, august.png
+2359, sabbe, rudolf.png
+2360, sabolotny, reinhold.png
+2363, sae, august.png
+2364, saemets, harry-reinhold.png
+2366, sahlström, aleksander.png
+2368, sainio, johan emil.png
+2369, säkk, eduard.png
+2370, saks, jüri.png
+2371, saks, karl.png
+2376, salla, richard-alexander.png
+2378, salminen, aarne antero johannes.png
+2385, salu, jüri.png
+2386, salumets, jüri.png
+2387, salza, hermann-alexander-eduard von.png
+2388, samajev, herman.png
+2389, samma, johannes.png
+2390, sammalisto, lauri emil.png
+2391, sammel, juhan.png
+2392, sampka, alfred.png
+2393, samuelsen, jens emanuel.png
+2395, sander, eduard.png
+2396, sanders, miķelis.png
+2399, sangernebo, elmar.png
+2401, santpank, johannes.png
+2402, saral, karl.png
+2403, sarapuu, august.png
+2404, sarapuu, reinhold.png
+2406, saretok, andres.png
+2407, särgava, otto.png
+2408, sarmiste, henn.png
+2409, sarmo, voldemar-johann.png
+2410, sarnet, august.png
+2411, sarnits, edgar-alexander.png
+2412, sarv, jaan.png
+2413, sarva, väinö gunnar.png
+2416, saueselg, artur-aleksander.png
+2417, sauga, andres.png
+2418, saulep, eduard.png
+2420, savi, johannes.png
+2421, saviauk, aleksander.png
+2422, saviauk, johannes.png
+2424, savvi, vitali.png
+2427, schanzer, carlo.png
+2428, scheler, jaan.png
+2430, schilling, gustav-otto.png
+2431, schmidt, johan.png
+2433, schönberg, august.png
+2436, schvartz, august-voldemar.png
+2437, schvede, jüri.png
+2438, schvindt, ludvig august.png
+2441, seeberg, august-karl.png
+2442, seer, johannes.png
+2443, seim, paul.png
+2444, seiman, aleksander.png
+2445, seitam, jüri.png
+2446, seiton, voldemar.png
+2447, selgvee, leopold-eduard.png
+2448, seljamaa, julius-friedrich.png
+2450, selter, aleksander-arthur.png
+2451, selter, priidik.png
+2452, selvet, aleksander-oskar.png
+2454, sempelson, juhan.png
+2455, sengbusch, johannes.png
+2456, sepik, edmund-friedrich-johannes.png
+2457, sepling, boris-aleksander.png
+2458, sepp, aleksander-paul.png
+2459, sepp, artur.png
+2460, sepp, heinrich.png
+2461, sepp, johannes, jaeni p.png
+2462, sepp, johannes, jakobi p.png
+2463, sepp, jüri.png
+2464, sepp, martin-johannes.png
+2465, sepp, riidu.png
+2468, sepre, konstantin.png
+2471, serka, paul-eduard.png
+2473, seskis, jānis.png
+2474, setälä, emil nestor.png
+2476, sforza, carlo.png
+2479, sieger, georg-alexander-friedrich.png
+2481, sihver, edmund.png
+2483, sihvre, elmar.png
+2485, siider, august.png
+2486, siig, anton.png
+2487, siilak, paul.png
+2490, siipan, hugo.png
+2491, sikorski, władysław eugeniusz.png
+2492, silbermann, hans.png
+2493, silbermann, voldemar.png
+2494, sild, jaan.png
+2495, sild, karla-johannes.png
+2496, sildam, joosep.png
+2497, sildam, roman.png
+2501, siliksaar, jaan.png
+2502, sillajõe, august.png
+2504, sillaste, eduard.png
+2505, silm, johannes.png
+2510, silver, mihkel.png
+2513, simmo, anton.png
+2514, simmo, gustav.png
+2515, simola, yrjö viktor.png
+2516, simon, aleksander.png
+2517, simon, martin.png
+2518, simonsson, anton.png
+2519, simpson, james young.png
+2520, simson, arthur-friedrich.png
+2523, sing, johan.png
+2524, sinivee, enno.png
+2525, sinka, arnold.png
+2526, sipelgas, jaan.png
+2529, sirk, arthur-johannes.png
+2530, sirk, juhan.png
+2531, sirks, augusts leopolds.png
+2532, sirola, bruno jalmar ferdinand.png
+2533, sirtse, eduard.png
+2534, sisask, johann.png
+2535, sisask, peeter.png
+2538, skaistlauks, voldemārs johans.png
+2539, sklave, karl-friedrich.png
+2541, skov, sigrid.png
+2543, skrzyński, aleksander józef.png
+2544, skujenieks, teodors.png
+2549, snellman, aarne.png
+2551, sõber, arnold.png
+2552, sõber, hans.png
+2553, sõber, karl.png
+2554, söde, karl.png
+2556, söderholm, johannes.png
+2557, sokolov, vladimir.png
+2558, soltna, reinhold-frants-stefan.png
+2559, sommer, august.png
+2561, soo, johannes.png
+2562, soo, karl-mihkel.png
+2563, sooaru, august-eduard-robert.png
+2564, soodla, johannes.png
+2565, soomann, karla-julius.png
+2566, soonpää, eduard.png
+2567, soonpää, karl-johannes.png
+2568, sööt, johannes-robert.png
+2569, soots, jaan.png
+2570, soovere, august.png
+2571, soovik, edgar-jaan.png
+2572, soovik, kristjan.png
+2574, sork, jaan.png
+2578, sosnkowski, kazimierz.png
+2579, sõster, aleksander-eduard.png
+2580, sõster, mart.png
+2582, stahl, johann.png
+2583, ståhlberg, kaarlo juho.png
+2584, stamm, anton.png
+2585, stamm, karl.png
+2586, stamm, leonhard-johann-gottfried.png
+2587, stankiewicz, jan.png
+2589, steele, gordon charles.png
+2591, stein, august-eduard.png
+2592, steinberg, august.png
+2593, steinmann, nikolai.png
+2599, stern, alfred-johannes.png
+2600, stern, karl-johannes.png
+2601, sternbeck, otto.png
+2602, stockeby, hermann-hans-joachim.png
+2603, strandman, otto-august.png
+2604, stranieri, augusto.png
+2605, stulginskis, aleksandras.png
+2606, sturm, hugo.png
+2607, subbi, johannes.png
+2608, suimets, karl-august.png
+2609, suits, nikolai.png
+2610, sulg, edgar.png
+2611, sulg, oskar.png
+2612, summataavet, august-voldemar.png
+2617, sups, rudolf.png
+2618, susi, arnold.png
+2619, susi, edgar-theodor.png
+2620, sütt, johan.png
+2621, sütt, richard.png
+2623, suur, arnold.png
+2624, suur, jaan.png
+2625, suuresaar, edgar-valentin.png
+2627, suuressaar, joosep.png
+2628, suurevälja, georgi.png
+2629, suurkivi, juhan.png
+2630, suurmann, mihkel-adolf.png
+2631, suursepp, eduard.png
+2632, suusik, johannes-andreas.png
+2633, svinhufvud, gustaf alku.png
+2634, swatridge, charles john.png
+2635, swett, trevor washington hitchcock.png
+2637, szeptycki, stanisław maria jan teofil.png
+2638, szumlakowski, marian.png
+2639, taalder, richard.png
+2640, taarma, heinrich-aleksander.png
+2641, tabur, jakob.png
+2642, taeker, julius-alexander.png
+2643, tähiste, juhan.png
+2644, tähnas, tõnis.png
+2645, täht, rein.png
+2646, taimre, julius-johannes.png
+2648, takel, aleksander.png
+2649, takel, jüri.png
+2651, taklaja, jaan.png
+2652, talikowski, michał.png
+2653, taliste, valter-andreas-georg.png
+2655, tallents, stephen george.png
+2656, tallo, karl.png
+2657, talman, jaan.png
+2659, talpsepp, aleksander-voldemar.png
+2660, talšin, leo.png
+2661, talts, aleksander.png
+2662, talussaar, ado.png
+2664, talvis, johannes-eduard.png
+2665, tambek, johannes.png
+2666, tamberg, villem.png
+2667, tamlak, villem.png
+2668, tamm, aleksander.png
+2669, tamm, eduard.png
+2670, tamm, johannes.png
+2671, tamm, johannes-eduard.png
+2672, tamm, johannes-voldemar.png
+2673, tamm, joosep.png
+2674, tamm, julius.png
+2675, tamm, karl-johannes.png
+2676, tamm, mart.png
+2677, tamm, mihkel, jakobi p.png
+2678, tamm, mihkel, jüri p.png
+2679, tamm, nikolai.png
+2680, tamm, villem.png
+2681, tammann, august.png
+2682, tamme, anton.png
+2683, tamme, eugen.png
+2684, tamme, jaan.png
+2685, tammekand, kaarel-ruudolf.png
+2686, tammekand, karl-voldemar.png
+2687, tammekänd, rudolf.png
+2688, tammeleht, jüri.png
+2693, tamminen, johannes arttur.png
+2694, tammist, hans.png
+2695, tammiste, johan.png
+2696, tammiste, robert-otto-paul.png
+2697, tammpere, jaak.png
+2698, tammpere, paul-osvald.png
+2699, tampu, martin.png
+2700, tamsalu, august.png
+2701, tamson, aleksander.png
+2702, tamtik, jaan.png
+2703, tänav, ernst-alfred.png
+2704, tanilas, paul.png
+2705, tanner, felix-johann.png
+2708, taras, johannes.png
+2709, tarik, rudolf.png
+2712, tartov, hans.png
+2714, tasuja, jaanus.png
+2715, tauts, hans.png
+2717, teder, aleksander.png
+2718, teder, juhan.png
+2719, teder, nikolai.png
+2720, tedre, hermann-rudolf.png
+2721, teearu, osvald-julius.png
+2722, teets, valter-friedrich.png
+2723, teiman, ralf-rene.png
+2727, tenneberg, martin.png
+2728, tennmann, august-johan-christoph.png
+2729, tenno, artur.png
+2730, teose, august-johannes.png
+2731, tepfers, hugo herberts.png
+2732, teppan, karl.png
+2733, teras, voldemar.png
+2735, terno, albert.png
+2736, terno, rudolf.png
+2737, terras, martin.png
+2739, teslon, edgar-paul-ernst.png
+2740, tetlov, arnold-engelbert.png
+2745, thesiger, bertram sackville.png
+2746, thomas, albert.png
+2749, thugutt, stanisław august.png
+2753, tief, otto.png
+2754, tiido, ernst-august.png
+2755, tiido, maksimilian.png
+2757, tiirmann, theodor.png
+2758, tiisler, kornelius.png
+2759, tiit, august-jaan-martin.png
+2760, tiitso, karl.png
+2761, tiitus, mihkel.png
+2762, tikkar, uku.png
+2763, tilgre, aleksander-robert.png
+2764, tilk, juhan.png
+2765, tilk, mihkel.png
+2766, till, hans.png
+2767, till, oskar.png
+2768, tilling, hartvig.png
+2769, timpson, hans.png
+2771, tisler, august.png
+2772, tittoni, tommaso.png
+2775, tohver, mihkel.png
+2776, toim, johannes.png
+2777, toimeta, eduard-julius.png
+2780, tõkke, johannes.png
+2781, tõldsepp, rudolf-aleksander.png
+2782, tõllasepp, jaan.png
+2783, tõllassaar, jaan.png
+2784, tolmoff, oskar.png
+2785, tomander, august.png
+2786, tomasberg, august.png
+2787, tomback, rein.png
+2788, tomberg, rein.png
+2789, tomingas, august-reinhold.png
+2790, tomingas, johannes.png
+2791, tomiste, aleksander.png
+2792, tomps, august.png
+2793, tomson, arthur.png
+2794, tomson, hans.png
+2795, tomson, johannes.png
+2796, tõnisson, aleksander.png
+2797, tõnisson, jaan, jaani p.png
+2798, tõnisson, jaan, johani p.png
+2799, tõnisson, jüri, jüri p.png
+2800, tõnisson, jüri, maria p.png
+2801, tõns, jüri.png
+2802, tõnso, ferdinand-voldemar.png
+2803, tõnson, hans.png
+2804, tõnson, leopold-herrmann.png
+2806, toom, peeter-eduard.png
+2807, toomara, oskar-eduard.png
+2808, toomingas, karl-heinrich.png
+2809, toomsar, juhan.png
+2810, toost, rein.png
+2811, tootsi, albert-aleksander.png
+2812, torma, august-johannes.png
+2814, tornberg, henrik mikael.png
+2815, tõruke, nikolai-aleksander.png
+2816, tõruvere, voldemar.png
+2817, traksmaa, august.png
+2818, trąmpczyński, wojciech stefan.png
+2819, trankmann, konstantin-nikolai.png
+2820, traut, rudolf-aleksander.png
+2822, treimuth, rodion.png
+2824, treu, ants.png
+2825, treufeldt, otto.png
+2826, treumann, johann-voldemar.png
+2827, treumuth, jaan.png
+2828, triik, paul-villiam.png
+2829, troitski, konstantin.png
+2830, trossi, verner-ernst-harald.png
+2831, troupp, anders.png
+2832, trubok, julius.png
+2833, trubok, rudolf-august.png
+2834, trumm, aleksei.png
+2836, trusa, aleksander.png
+2838, truu, alfred-georg.png
+2840, tschernov, gavril.png
+2841, tuisk, august.png
+2842, tuisk, mart.png
+2843, tuisk, mihkel.png
+2844, tuisk, voldemar-johannes.png
+2845, tuit, jaan.png
+2846, tulenheimo, antti agathon.png
+2847, tulff, karl-johannes.png
+2848, tulmin, karl.png
+2849, tulnola, hengo.png
+2850, tulp, mats.png
+2856, tupits, aleksander.png
+2857, tupits, heinrich.png
+2858, turi, nikolai.png
+2859, turjakas, aleksander.png
+2860, türk, jakob.png
+2861, türk, johannes.png
+2862, turmann, august-rudolf.png
+2866, tuttelberg, leonid-carl-gustav.png
+2867, tuuksam, hans.png
+2868, tuurmaa, arno-georg.png
+2869, tuvi, jaan.png
+2870, tuvi, johann.png
+2871, tyrrell, william george.png
+2872, ubakivi, roman.png
+2873, uder, august-richard.png
+2874, udikas, oskar-friedrich.png
+2875, uegeinam, voldemar.png
+2876, uhke, karl-rudolf.png
+2877, uibo, aleksander.png
+2878, uibo, rudolf.png
+2879, uibopuu, sergei.png
+2880, ulm, voldemar.png
+2881, ulmanis, kārlis augusts.png
+2882, umb, andrei.png
+2884, undén, ulf torsten.png
+2885, unger, jakob.png
+2886, ungvere, jüri.png
+2887, univer, peeter.png
+2889, unt, jaan.png
+2890, unt, johan.png
+2891, unt, mart.png
+2892, untolahti, herman.png
+2894, uritam, oskar.png
+2895, uritam, richard.png
+2896, urke, jakob.png
+2897, urm, eduard.png
+2900, usin, jaan.png
+2901, ustav, august.png
+2902, utuste, kustas.png
+2903, uue, aleksander.png
+2904, uuk, aleksander.png
+2905, uuk, rudolf.png
+2906, uulimaa, mihail.png
+2907, uus, arthur.png
+2909, uuskam, johannes.png
+2910, uusõue, august-bartholomeus.png
+2911, uussalu, hugo-heinrich.png
+2912, uustal, august.png
+2913, vaabel, oskar.png
+2914, vaadre, ernst-johannes.png
+2919, vaarmann, mihkel.png
+2920, väärtnõu, andrei.png
+2921, vaaver, karl.png
+2922, väeden, villem.png
+2923, vaga, kustav.png
+2925, vaharo, rudolf.png
+2926, vahem, johannes.png
+2927, vaher, georg.png
+2928, vaher, jaan.png
+2929, vähi, mihkel.png
+2930, vahi, roman-heinrich.png
+2932, vaht, hugo.png
+2933, vahtramäe, hendrik.png
+2934, vahtre, voldemar.png
+2935, vahul, herman.png
+2936, vaidla, richard-oskar.png
+2937, vaigu, juhan.png
+2938, vaiksaar, eino.png
+2939, väinaste, kustav.png
+2941, vaino, paul-eduard.png
+2942, vainumets, aleksander.png
+2943, valdmann, arnold-friedrich.png
+2944, valdmann, hans.png
+2945, valdmann, osvald.png
+2947, valdur, arvo.png
+2948, valdur, voldemar.png
+2949, valge, aleksander.png
+2950, valge, alfred-aleksander.png
+2951, valge, gustav.png
+2952, valge, nikolai.png
+2953, välja, madis.png
+2957, valler, mihkel.png
+2960, välme, henn.png
+2961, valter, benjamin.png
+2962, valter, reinhold-alexander.png
+2964, vanaveski, hans.png
+2965, vao, august-johannes.png
+2966, vardja, johannes.png
+2967, vare, jaan.png
+2968, vares, elmar.png
+2969, vares, johannes.png
+2970, vares, julian.png
+2971, vares, paul.png
+2972, varik, karl.png
+2973, varik, peeter-karl.png
+2975, varner, anton-hans.png
+2979, vasar, hans.png
+2980, vasar, johan.png
+2982, vask, august.png
+2983, vaska, jakob-michael.png
+2984, vasko, johannes-rudolph.png
+2985, vassermann, teodor.png
+2986, vassil, august-voldemar.png
+2987, vassil, paul.png
+2988, västrik, heinrich-aleksander.png
+2993, veeberg, august.png
+2994, veem, helmut-traugott.png
+2996, veidermann, johannes.png
+2997, veigel, karl.png
+2998, veigelin, georg.png
+2999, veijo, einari walter.png
+3001, veinberg, elmar-johann.png
+3002, veinpere, erich-christoph.png
+3003, veldemann, jaan.png
+3004, vellerind, johannes-august.png
+3005, vende, jakob.png
+3006, vendla, jaak.png
+3007, vendla, tõnis.png
+3010, vent, paul.png
+3011, ventsel, august-eduard.png
+3013, verliin, villem.png
+3014, vertmann, karla.png
+3016, vestel, georg-hugo.png
+3017, vesterinen, emil.png
+3021, videvik, jakob.png
+3022, vidrik, jaan.png
+3023, vienberg, rudolf.png
+3024, vihmann, johannes.png
+3025, viiburg, helmuth.png
+3027, viidemaa, jakob.png
+3030, viilip, artur.png
+3031, viilmaa, hando.png
+3033, viirmaa, richard-heinrich.png
+3035, viitak, nikolai.png
+3036, viljak, johannes.png
+3037, villemi, karl-friedrich.png
+3038, villemi, paul-aleksander.png
+3039, villems, albert.png
+3041, villup, august.png
+3042, vilms, jüri.png
+3043, vilta, karl-erich-sergius.png
+3044, vimm, jakob.png
+3045, vink, aleksander.png
+3046, vinkler, johannes.png
+3047, viralu, nicolai.png
+3048, virgo, eduard-reinhold.png
+3054, viru, august-osvald.png
+3055, virula, tõnis.png
+3056, visman, harry-alexander.png
+3058, vittorio emanuele iii.png
+3059, vodja, jaan.png
+3060, vohlonen, oiva lahja.png
+3061, vöhrmann, arnold-joosep.png
+3062, voitka, august.png
+3063, vokk, oskar.png
+3065, vool, abel.png
+3067, võrk, hans-roland.png
+3069, vreemann, friedrich.png
+3073, valler, joosep.png
+3074, walne, william sydney james.png
+3075, warma, aleksander.png
+3076, wasilewski, leon.png
+3077, weiss, constantin-alexander-clemens von.png
+3078, wemyss, rosslyn erskine.png
+3083, wetter-rosenthal, hellmuth-carl-ernst von.png
+3084, wetzer, paul martin.png
+3085, weygand, maxime louis.png
+3096, williams, harold whitmore.png
+3097, williams, thomas melling.png
+3098, wilson, walter caradine.png
+3104, wojciechowski, stanisław.png
+3107, wrede af elimä, gustaf oskar axel.png
+3111, yli-pohja, kaarlo.png
+3112, ylitalo, antti isak.png
+3113, yllö, andreas.png
+3114, young, evan erastus.png
+3115, yrjö-koskinen, aarno armas sakari.png
+3117, zeltner, knud valdemar.png
+3118, zemitāns, jorģis.png
+3119, zidbäck, john elis.png
+3120, ziehr, oskar-franz-reinhold.png
+3121, zimmermann, georg.png
+3122, zīverts, voldemārs oto.png
+3123, zoege von manteuffel, maximilian-friedrich-werner.png
+3124, zovo, karl.png
