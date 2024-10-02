@@ -10,13 +10,14 @@ const entu_hostname = 'entu.app/api'
 const entu_account = 'esmuuseum'
 
 const fetch_limit = 10000
-const list_vrk = `https://${entu_hostname}/${entu_account}/entity?_type.string=vrkavaler&props=_id&limit=${fetch_limit}`
-const list_vr = `https://${entu_hostname}/${entu_account}/entity?_type.string=vrist&props=_id&limit=${fetch_limit}`
+// const entity_type = 'vr_kavaler'
+const entity_type = 'vr_aum2rk'
+const list_vr = `https://${entu_hostname}/${entu_account}/entity?_type.string=${entity_type}&props=_id&limit=${fetch_limit}`
 const public_v = `https://${entu_hostname}/${entu_account}/entity/`
 
 let counter = 0
 const full_trshold = 50
-const low_trshold = 40
+const low_trshold = 45
 var paused = false
 var total = 0
 
@@ -54,7 +55,7 @@ fetch(list_vr, {
         'Content-Type': 'application/json'
       },
       body: JSON.stringify([
-        // { type: '_inheritrights', boolean: true },
+        { type: '_inheritrights', boolean: true },
         { type: '_sharing', string: 'public' },
       ])
     })

@@ -8,8 +8,8 @@ const entu_hostname = 'entu.app/api'
 const entu_account = 'esmuuseum'
 
 const fetch_limit = 10000
-const list_vrk = `https://${entu_hostname}/${entu_account}/entity?_type.string=vrkavaler&props=_id&limit=${fetch_limit}`
-const list_vr = `https://${entu_hostname}/${entu_account}/entity?_type.string=vrist&props=_id&limit=${fetch_limit}`
+const list_vrk = `https://${entu_hostname}/${entu_account}/entity?_type.string=vr_kavaler&props=_id&limit=${fetch_limit}`
+const list_vr = `https://${entu_hostname}/${entu_account}/entity?_type.string=vr_aum2rk&props=_id&limit=${fetch_limit}`
 const aggregate_v = `https://${entu_hostname}/${entu_account}/entity/` // entu_id/aggregate
 
 let counter = 0
@@ -17,7 +17,7 @@ const full_trshold = 50
 const low_trshold = 20
 var paused = false
 
-fetch(list_vr, {
+fetch(list_vrk, {
   method: 'GET',
   headers: {
     'Authorization': `Bearer ${token}`,
