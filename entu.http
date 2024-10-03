@@ -87,8 +87,61 @@ Accept-Encoding: deflate
 Authorization: Bearer {{esm_token}}
 
 ###
+# list properties
+GET https://entu.app/api/esmuuseum/entity?_type.string=vr_kavaler&photo._id.exists=true&props=photo._id&limit=10
+Accept-Encoding: deflate
+Authorization: Bearer {{esm_token}}
+
+###
 # DELETE entities
 DELETE {{hostname}}/{{account}}/entity?_type.string=vrkavaler
 Accept-Encoding: deflate
 Authorization: Bearer {{esm_token}}
 Content-Type: application/json; charset=utf-8
+
+###
+# faili lisamine kavaleri fotoks
+#
+# POST /api/{ db }/entity/{ _id }
+#
+# Add new properties to existing entity.
+# Data must be sent as JSON list containing property object(s).
+# Returns added properties.
+#
+# For file upload, add filename, filesize and filetype to property parameters.
+# Response contains upload object with info (url, method and headers),
+# where to upload file (as request body).
+
+# A. get upload url
+POST {{hostname}}/{{account}}/entity/66eabbe42e92de098dfc8125 HTTP/1.1
+Accept-Encoding: deflate
+Authorization: Bearer {{esm_token}}
+Content-Type: application/json; charset=utf-8
+
+[
+    {
+        "type": "photo", 
+        "filename": "0003, aalberg, viktor.png", 
+        "filesize": 231269, 
+        "filetype": "image/png"
+    }
+]
+
+### A.CURL
+curl --request POST \
+  --url entu.app/api/esmuuseum/entity/66eabbe42e92de098dfc8125 \
+  --header 'accept-encoding: deflate' \
+  --header 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NvdW50cyI6eyJlc211dXNldW0iOiI2NmI2MjQ1YzdlZmM5YWMwNmE0MzdiOTcifSwiaWF0IjoxNzI3ODc1NDA4LCJleHAiOjE3MjgwNDgyMDgsImF1ZCI6IjgyLjEzMS4xMjIuMjM4In0.i241WU3ayDacgzhPyItmhfc6-BrRca85QEBRCjxpGyM' \
+  --header 'content-type: application/json; charset=utf-8' \
+  --header 'user-agent: vscode-restclient' \
+  --data '[{"type": "photo","filename": "0003, aalberg, viktor.png","filesize": 231269,"filetype": "image/png"}]'
+
+### B. upload file
+PUT https://entu-files.fra1.digitaloceanspaces.com/esmuuseum/66eabbe42e92de098dfc8125/66fd4fd35e887861b1032778?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=DO00G2JGVW2FDH2PP334%2F20241002%2Ffra1%2Fs3%2Faws4_request&X-Amz-Date=20241002T135115Z&X-Amz-Expires=60&X-Amz-Signature=f58a204ba259049453ea48f8d7959b21f9b5b14d44556c05d95e3c63eb717924&X-Amz-SignedHeaders=content-disposition%3Bhost&x-amz-acl=private&x-id=PutObject HTTP/1.1
+ACL: private
+Content-Disposition: inline;filename=\"0003,%20aalberg,%20viktor.png\""
+Content-Type: image/png
+
+###
+Content-Length: 231269
+Host: entu-files.fra1.digitaloceanspaces.com

@@ -60,7 +60,7 @@ const instream = fs.createReadStream(fotod_csv_path)
     .then(response => response.json())
     .then(json_data => {
       const upload_properties = json_data.properties[0].upload
-      console.log(`Upload headers: ${JSON.stringify(upload_properties.headers)}`)
+      // console.log(`Upload headers: ${JSON.stringify(upload_properties.headers)}`)
       // add content length header
       // upload_properties.headers['Content-Length'] = file_size
 
