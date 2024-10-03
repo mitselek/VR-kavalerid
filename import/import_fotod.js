@@ -10,12 +10,12 @@ const entu_account = 'esmuuseum'
 const result_csv_path = path.parse(__filename).dir + '/import_fotod_results.csv'
 const result_stream = fs.createWriteStream(result_csv_path)
 const fotod_csv_path = path.parse(__filename).dir + '/test.csv'
-// const fotod_csv_path = path.parse(__filename).dir + '/VR Kavalerid puhtand - aumärgid.csv'
+// const fotod_csv_path = path.parse(__filename).dir + '/VR Kavalerid puhtand - fotod.csv'
 const kavalerid_entu_type = {'type': '_type', 'string': 'vr_kavaler', 'reference': process.env.vr_kavaler_type_eid}
 
 var counter = 0
-const full_trshold = 42
-const low_trshold = 36
+const full_trshold = 15
+const low_trshold = 14
 var paused = false
 
 const instream = fs.createReadStream(fotod_csv_path)
@@ -27,51 +27,66 @@ const instream = fs.createReadStream(fotod_csv_path)
       instream.pause()
       paused = true
     }
-    // 2. POST new entites and save result ID's
-    console.log(`Adding new entity for ${csv_data.vr_id}, kavaler: ${csv_data.Kavaler_eid}`)
+    // make sure photo file exists
+    const file_path = path.parse(__filename).dir + '/in/png_links/' + csv_data.Failinimi
+    const kavaler_eid = csv_data.Kavaler_eid
+    const kavaler_id = csv_data.Kavaler_id
+    if (!fs.existsSync(file_path)) {
+      counter --
+      const statusText = `File ${file_path} does not exist`
+      console.log(statusText)
+      result_stream.write(`${kavaler_eid} ${kavaler_id} ${statusText}\n`)
+      return {status: 400, statusText}
+    }
+    const file_size = fs.statSync(file_path).size
+    console.log(`Creating photo property for ${kavaler_id} with file: ${csv_data.Failinimi}`)
+    // 1. request upload url
     fetch(
-      `https://${entu_hostname}/${entu_account}/entity`, {
+      `https://${entu_hostname}/${entu_account}/entity/${csv_data.Kavaler_eid}`, {
         method: 'POST',
         headers: {
+          'Accept-Encoding': 'deflate',
           'Authorization': `Bearer ${token}`,
-          'Content-Type': 'application/json'
+          'Content-Type': 'application/json; charset=utf-8'
         },
-        body: JSON.stringify([
-          kavalerid_entu_type,
-          {type: 'kavaler', reference: csv_data.Kavaler_eid},
-          {type: 'vr_nr', string: csv_data.VR_Nr},
-          {type: 'liik_ja_j2rk', string: csv_data.Liik_ja_järk},
-          {type: 'otsuse_kp', string: csv_data.Otsus_kp},
-          {type: 't2psustus', string: csv_data.Täpsustus},
-          {type: 'otsuse_tekst', string: csv_data.Otsus_tekst},
-          {type: 'vr_id', string: csv_data.vr_id},
-          {type: 'kavaler_vr_id', string: csv_data.Kavaler_id},
-        ])
+        body: JSON.stringify([{
+          type: 'photo',
+          filename: csv_data.Failinimi,
+          filesize: file_size,
+          filetype: 'image/png'
+        }])
       }
     )
     .then(response => response.json())
     .then(json_data => {
-      // console.log(`Response data: ${JSON.stringify(json_data)}`)
-      let new_id = json_data._id
-      // 3. aggregate new entity
-      fetch(`https://${entu_hostname}/${entu_account}/entity/${new_id}/aggregate`, {
-        method: 'GET',
-        headers: {
-          'Authorization': `Bearer ${token}`
-        }
+      const upload_properties = json_data.properties[0].upload
+      console.log(`Upload headers: ${JSON.stringify(upload_properties.headers)}`)
+      // add content length header
+      // upload_properties.headers['Content-Length'] = file_size
+
+      // 2. upload file
+      fetch(upload_properties.url, {
+        method: upload_properties.method,
+        headers: upload_properties.headers,
+        duplex: 'half',
+        body: fs.createReadStream(file_path),
       })
-      .then(response => response.json())
-      .then(json_data => {
-        // console.log(JSON.stringify(json_data, null, 2))
+      .then(async (response) => {
+        // console.log(`Upload response: ${response.status}`)
+        // console.log(`Upload response: ${response.statusText}`)
+        // stall a bit to let the server process the upload
+        return await response
+      })
+      .then(response => {
         counter--
         if (counter < low_trshold && paused) {
           // console.log('Resuming...')
           instream.resume()
           paused = false
         }
-        // 4. Save results to 'import_kavalerid_results.csv'
-        result_stream.write(`${csv_data.vr_id},${new_id}\n`)
-        console.log(`Added new entity: ${new_id} for nr: ${csv_data.vr_id}`)
+        // 4. Save results to 'import_fotod_results.csv'
+        result_stream.write(`${kavaler_eid} ${kavaler_id} ${response.statusText}\n`)
+        console.log(`Upload for: ${kavaler_eid} (${kavaler_id}) result: ${response.statusText}`)
       })
     })
   })
